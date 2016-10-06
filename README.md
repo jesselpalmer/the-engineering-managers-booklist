@@ -18,4 +18,8 @@ A curated list of great articles made for people who manage or lead web engineer
 [Google Forms](https://www.google.com/forms/about/)
 
 ## Newsletters
+### Leadership
 [Software Lead Weekly](http://softwareleadweekly.com/)
+
+### JavaScript
+[Pony Foo Weekly](https://ponyfoo.com/weekly)
