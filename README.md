@@ -1,5 +1,5 @@
 # The Web Engineering Manager's Handbook
-A curated list of great articles made for people who manage or lead web engineering teams. Pull requests are welcome.
+A curated list of great resources made for people who manage or lead web engineering teams. Pull requests are welcome.
 
 ## General
 [Six Recipes for Software Managers](http://eng.localytics.com/six-recipes-for-software-managers/)
