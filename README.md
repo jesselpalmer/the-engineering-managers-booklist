@@ -23,3 +23,12 @@ A curated list of great articles made for people who manage or lead web engineer
 
 ### JavaScript
 [Pony Foo Weekly](https://ponyfoo.com/weekly)
+
+## Tools
+### Apps
+#### Mobile
+##### Mindfulness
+[Headspace](https://www.headspace.com/)
+
+##### Project Management
+[Trello](https://trello.com/)
