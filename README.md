@@ -30,6 +30,9 @@ A curated list of great resources made for people who manage or lead web enginee
 ##### Mindfulness
 [Headspace](https://www.headspace.com/)
 
+##### Journal
+[5 Minute Journal](https://www.intelligentchange.com/products/the-five-minute-journal)
+
 #### Web / Mobile
 ##### Project Management
 [Trello](https://trello.com/)
