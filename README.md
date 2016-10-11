@@ -23,6 +23,7 @@ A curated list of great resources made for people who manage or lead web enginee
 
 ### JavaScript
 [Pony Foo Weekly](https://ponyfoo.com/weekly)
+[JavaScript Weekly](http://javascriptweekly.com/)
 
 ## Tools
 ### Apps
