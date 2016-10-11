@@ -22,7 +22,7 @@ A curated list of great resources made for people who manage or lead web enginee
 [Software Lead Weekly](http://softwareleadweekly.com/)
 
 ### JavaScript
-[Pony Foo Weekly](https://ponyfoo.com/weekly)
+[Pony Foo Weekly](https://ponyfoo.com/weekly)    
 [JavaScript Weekly](http://javascriptweekly.com/)
 
 ## Tools
