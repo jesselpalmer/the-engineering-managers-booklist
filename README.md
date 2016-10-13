@@ -19,7 +19,9 @@ A curated list of great resources made for people who manage or lead web enginee
 
 ## Newsletters
 ### Leadership
-[Software Lead Weekly](http://softwareleadweekly.com/)
+[Software Lead Weekly](http://softwareleadweekly.com/)    
+[Tech Leadership Weekly](http://www.techleadershipweekly.com/)    
+[Herding Cats](https://herdingcats.curated.co/)    
 
 ### JavaScript
 [Pony Foo Weekly](https://ponyfoo.com/weekly)    
