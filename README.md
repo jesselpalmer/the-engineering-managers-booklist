@@ -29,7 +29,8 @@ A curated list of great resources made for people who manage or lead web enginee
 
 ## Books
 [The Effective Engineer](https://www.theeffectiveengineer.com/book)    
-[Peopleware](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/ref=dp_ob_title_bk)    
+[Peopleware](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/ref=dp_ob_title_bk)   
+[The Hard Thing About Hard Things](https://www.amazon.com/dp/B00DQ845EA)
 
 ## Tools
 ### Apps
