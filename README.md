@@ -32,7 +32,7 @@ A curated list of great resources made for people who manage or lead web enginee
 [Peopleware](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/ref=dp_ob_title_bk)   
 [The Hard Thing About Hard Things](https://www.amazon.com/dp/B00DQ845EA)     
 [Good to Great](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6/ref=pd_sim_351_15)    
-[How Google Works](https://www.amazon.com/How-Google-Works/dp/B00MOZPSYW/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
+[How Google Works](https://www.amazon.com/How-Google-Works/dp/B00MOZPSYW/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)    
 [Rework](https://www.amazon.com/Rework-Jason-Fried-ebook/dp/B002MUAJ2A/ref=pd_sim_351_21)  
 [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)
 
