@@ -37,6 +37,9 @@ A curated list of great resources made for people who manage or lead web enginee
 [Pony Foo Weekly](https://ponyfoo.com/weekly)    
 [JavaScript Weekly](http://javascriptweekly.com/)
 
+### Culture
+[What Makes a Good Engineering Culture](http://www.theeffectiveengineer.com/blog/what-makes-a-good-engineering-culture)
+
 ## Books
 [The Effective Engineer](https://www.theeffectiveengineer.com/book)    
 [Peopleware](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/ref=dp_ob_title_bk)   
