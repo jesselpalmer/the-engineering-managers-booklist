@@ -14,7 +14,7 @@ A curated list of great resources made for people who manage or lead web enginee
 [Conducting Effective and Regular One-on-Ones](https://moz.com/blog/conducting-effective-and-regular-oneonones) from Moz
 
 ### Teamwork
-[Guilds: Get Stuff Done Together](http://code.hootsuite.com/guilds/)    
+[Guilds: Get Stuff Done Together](http://code.hootsuite.com/guilds/) from Hootsuite        
 
 ## Team Surveys
 [15Five](https://www.15five.com/)    
