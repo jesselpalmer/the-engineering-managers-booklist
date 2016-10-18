@@ -17,7 +17,7 @@ A curated list of great resources made for people who manage or lead web enginee
 [Guilds: Get Stuff Done Together](http://code.hootsuite.com/guilds/) from Hootsuite       
 
 ### Productivity
-[How to Grow from Being Average to a 10x Engineer](http://www.theeffectiveengineer.com/blog/how-to-become-a-10x-engineer)    f
+[How to Grow from Being Average to a 10x Engineer](http://www.theeffectiveengineer.com/blog/how-to-become-a-10x-engineer) from The Effective Engineer    
 
 ## Team Surveys
 [15Five](https://www.15five.com/)    
