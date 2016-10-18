@@ -14,7 +14,10 @@ A curated list of great resources made for people who manage or lead web enginee
 [Conducting Effective and Regular One-on-Ones](https://moz.com/blog/conducting-effective-and-regular-oneonones) from Moz
 
 ### Teamwork
-[Guilds: Get Stuff Done Together](http://code.hootsuite.com/guilds/) from Hootsuite        
+[Guilds: Get Stuff Done Together](http://code.hootsuite.com/guilds/) from Hootsuite       
+
+### Productivity
+[How to Grow from Being Average to a 10x Engineer](http://www.theeffectiveengineer.com/blog/how-to-become-a-10x-engineer)    f
 
 ## Team Surveys
 [15Five](https://www.15five.com/)    
