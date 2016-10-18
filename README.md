@@ -19,6 +19,9 @@ A curated list of great resources made for people who manage or lead web enginee
 ### Productivity
 [How to Grow from Being Average to a 10x Engineer](http://www.theeffectiveengineer.com/blog/how-to-become-a-10x-engineer) from The Effective Engineer    
 
+### Culture
+[What Makes a Good Engineering Culture](http://www.theeffectiveengineer.com/blog/what-makes-a-good-engineering-culture) from The Effective Engineer 
+
 ## Team Surveys
 [15Five](https://www.15five.com/)    
 [TINYPulse](https://www.tinypulse.com/)    
@@ -36,9 +39,6 @@ A curated list of great resources made for people who manage or lead web enginee
 ### JavaScript
 [Pony Foo Weekly](https://ponyfoo.com/weekly)    
 [JavaScript Weekly](http://javascriptweekly.com/)
-
-### Culture
-[What Makes a Good Engineering Culture](http://www.theeffectiveengineer.com/blog/what-makes-a-good-engineering-culture)
 
 ## Books
 [The Effective Engineer](https://www.theeffectiveengineer.com/book)    
