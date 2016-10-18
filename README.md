@@ -12,6 +12,9 @@ A curated list of great resources made for people who manage or lead web enginee
 [A 101 on 1:1s](https://labs.spotify.com/2015/12/16/a-101-on-11s/) from Spotify   
 [Conducting Effective and Regular One-on-Ones](https://moz.com/blog/conducting-effective-and-regular-oneonones) from Moz
 
+## Teamwork
+[http://code.hootsuite.com/guilds/](http://code.hootsuite.com/guilds/)    
+
 ## Team Surveys
 [15Five](https://www.15five.com/)    
 [TINYPulse](https://www.tinypulse.com/)    
