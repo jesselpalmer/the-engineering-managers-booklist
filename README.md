@@ -30,6 +30,9 @@ A curated list of great resources made for people who manage or lead web enginee
 [Tech Leadership Weekly](http://www.techleadershipweekly.com/)    
 [Herding Cats](https://herdingcats.curated.co/)    
 
+### Software Engineering
+[The Effective Engineer](http://www.theeffectiveengineer.com/)    
+
 ### JavaScript
 [Pony Foo Weekly](https://ponyfoo.com/weekly)    
 [JavaScript Weekly](http://javascriptweekly.com/)
