@@ -21,6 +21,8 @@ A curated list of great resources made for people who manage or lead web enginee
 
 ### Culture
 [What Makes a Good Engineering Culture](http://www.theeffectiveengineer.com/blog/what-makes-a-good-engineering-culture) from The Effective Engineer 
+[What Google Learned From Its Quest to Build the Perfect Team](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
+[Why psychological safety matters and what to do about it](https://rework.withgoogle.com/blog/how-to-foster-psychological-safety/)
 
 ## Team Surveys
 [15Five](https://www.15five.com/)    
