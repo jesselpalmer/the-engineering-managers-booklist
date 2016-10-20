@@ -52,7 +52,8 @@ A curated list of great resources made for people who manage or lead web enginee
 [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)   
 [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO/ref=sr_1_1)   
 [Death by Meeting](https://www.amazon.com/Death-Meeting-Leadership-Business-Lencioni-ebook/dp/B008L03W7O/ref=pd_sim_351_40)   
-[High Output Managment](https://www.amazon.com/dp/B015VACHOK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)    
+[High Output Managment](https://www.amazon.com/dp/B015VACHOK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)  
+[The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/)   
 
 ## Tools
 ### Apps
