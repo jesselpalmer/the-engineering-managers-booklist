@@ -43,17 +43,25 @@ A curated list of great resources made for people who manage or lead web enginee
 [JavaScript Weekly](http://javascriptweekly.com/)
 
 ## Books
+### Software Engineering
+[The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)    
 [The Effective Engineer](https://www.theeffectiveengineer.com/book)    
+
+### People
 [Peopleware](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/ref=dp_ob_title_bk)   
+[The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/) 
+
+### Culture
 [The Hard Thing About Hard Things](https://www.amazon.com/dp/B00DQ845EA)     
 [Good to Great](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6/ref=pd_sim_351_15)    
 [How Google Works](https://www.amazon.com/How-Google-Works/dp/B00MOZPSYW/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)    
 [Rework](https://www.amazon.com/Rework-Jason-Fried-ebook/dp/B002MUAJ2A/ref=pd_sim_351_21)  
 [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002)   
 [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO/ref=sr_1_1)   
+
+### Management
 [Death by Meeting](https://www.amazon.com/Death-Meeting-Leadership-Business-Lencioni-ebook/dp/B008L03W7O/ref=pd_sim_351_40)   
-[High Output Managment](https://www.amazon.com/dp/B015VACHOK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)  
-[The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/)   
+[High Output Managment](https://www.amazon.com/dp/B015VACHOK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)    
 
 ## Tools
 ### Apps
