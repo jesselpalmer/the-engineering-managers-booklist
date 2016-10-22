@@ -63,6 +63,9 @@ A curated list of great resources made for people who manage or lead web enginee
 [Death by Meeting](https://www.amazon.com/Death-Meeting-Leadership-Business-Lencioni-ebook/dp/B008L03W7O/ref=pd_sim_351_40)   
 [High Output Managment](https://www.amazon.com/dp/B015VACHOK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)    
 
+### Leadership
+[The Score Takes Care of Itself](https://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472) by Bill Walsh    
+
 ## Tools
 ### Apps
 #### Mobile
