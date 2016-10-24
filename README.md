@@ -54,8 +54,8 @@ A curated list of great resources made for people who manage or lead web enginee
 [The Effective Engineer](https://www.theeffectiveengineer.com/book)    
 
 ### People
-[Peopleware](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/ref=dp_ob_title_bk)   
-[The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/) 
+[Peopleware](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/ref=dp_ob_title_bk) by Tom DeMarco and Tim Lister     
+[The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/) by Frederick P. Brooks Jr.    
 
 ### Culture
 [The Hard Thing About Hard Things](https://www.amazon.com/dp/B00DQ845EA)     
