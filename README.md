@@ -66,8 +66,8 @@ A curated list of great resources made for people who manage or lead web enginee
 [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO/ref=sr_1_1)   
 
 ### Management
-[Death by Meeting](https://www.amazon.com/Death-Meeting-Leadership-Business-Lencioni-ebook/dp/B008L03W7O/ref=pd_sim_351_40)   
-[High Output Managment](https://www.amazon.com/dp/B015VACHOK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)    
+[Death by Meeting](https://www.amazon.com/Death-Meeting-Leadership-Business-Lencioni-ebook/dp/B008L03W7O/ref=pd_sim_351_40) by Patrick M. Lencioni   
+[High Output Managment](https://www.amazon.com/dp/B015VACHOK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Andrew S. Grove        
 
 ### Leadership
 [The Score Takes Care of Itself](https://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472) by Bill Walsh, Steve Jamison, and Craig Walsh    
