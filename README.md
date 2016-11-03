@@ -60,10 +60,10 @@ A curated list of great resources made for people who manage or lead web enginee
 ### Culture
 [The Hard Thing About Hard Things](https://www.amazon.com/dp/B00DQ845EA) by Ben Horowitz    
 [Good to Great](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6/ref=pd_sim_351_15) by Jim Collins     
-[How Google Works](https://www.amazon.com/How-Google-Works/dp/B00MOZPSYW/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=) by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle   
+[How Google Works](https://www.amazon.com/How-Google-Works/dp/B00MOZPSYW/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=) by Eric Schmidt, Jonathan Rosenberg and Alan Eagle   
 [Rework](https://www.amazon.com/Rework-Jason-Fried-ebook/dp/B002MUAJ2A/ref=pd_sim_351_21) by Jason Fried and David Heinemeier Hansson    
-[DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002) by Gene Kim, Patrick Debois, John Willis, and Jez Humble         
-[The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO/ref=sr_1_1) by Gene Kim, Patrick Debois, John Willis, and Jez Humble      
+[DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002) by Gene Kim, Patrick Debois, John Willis and Jez Humble         
+[The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO/ref=sr_1_1) by Gene Kim, Kevin Behr and George Spafford     
 
 ### Management
 [Death by Meeting](https://www.amazon.com/Death-Meeting-Leadership-Business-Lencioni-ebook/dp/B008L03W7O/ref=pd_sim_351_40) by Patrick M. Lencioni   
