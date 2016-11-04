@@ -11,7 +11,8 @@ A curated list of great resources made for people who manage or lead web enginee
 [Master the One-on-One Meeting](http://hbswk.hbs.edu/item/master-the-one-on-one-meeting) from Harvard    
 [How to Make Your One-on-Ones with Employees More Productive](https://hbr.org/2016/08/how-to-make-your-one-on-ones-with-employees-more-productive) from Harvard    
 [A 101 on 1:1s](https://labs.spotify.com/2015/12/16/a-101-on-11s/) from Spotify   
-[Conducting Effective and Regular One-on-Ones](https://moz.com/blog/conducting-effective-and-regular-oneonones) from Moz
+[Conducting Effective and Regular One-on-Ones](https://moz.com/blog/conducting-effective-and-regular-oneonones) from Moz    
+[The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c) from Mark Rabkin    
 
 ### Teamwork
 [Guilds: Get Stuff Done Together](http://code.hootsuite.com/guilds/) from Hootsuite       
