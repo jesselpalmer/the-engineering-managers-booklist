@@ -26,8 +26,7 @@ A curated list of great resources made for people who manage or lead web enginee
 [Why psychological safety matters and what to do about it](https://rework.withgoogle.com/blog/how-to-foster-psychological-safety/) from Google    
 
 ### Blogging
-[Yes, your team should be blogging](http://michaelrbernste.in/2016/11/02/blog-blog-blog.html)    
-
+[Yes, your team should be blogging](http://michaelrbernste.in/2016/11/02/blog-blog-blog.html) from Michael Robert Bernstein   
 ## Team Surveys
 [15Five](https://www.15five.com/)    
 [TINYPulse](https://www.tinypulse.com/)    
