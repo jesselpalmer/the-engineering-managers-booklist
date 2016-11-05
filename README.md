@@ -25,6 +25,9 @@ A curated list of great resources made for people who manage or lead web enginee
 [What Google Learned From Its Quest to Build the Perfect Team](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) from New York Times    
 [Why psychological safety matters and what to do about it](https://rework.withgoogle.com/blog/how-to-foster-psychological-safety/) from Google    
 
+### Blogging
+[Yes, your team should be blogging](http://michaelrbernste.in/2016/11/02/blog-blog-blog.html)    
+
 ## Team Surveys
 [15Five](https://www.15five.com/)    
 [TINYPulse](https://www.tinypulse.com/)    
