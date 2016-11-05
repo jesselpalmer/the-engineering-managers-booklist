@@ -27,6 +27,10 @@ A curated list of great resources made for people who manage or lead web enginee
 
 ### Blogging
 [Yes, your team should be blogging](http://michaelrbernste.in/2016/11/02/blog-blog-blog.html) from Michael Robert Bernstein   
+
+### Goal Setting
+[About predictability and clearly defining team goals](http://ourbit.norbertoherz.com//2016/11/01/about-predictability-and-team-goals/)    
+
 ## Team Surveys
 [15Five](https://www.15five.com/)    
 [TINYPulse](https://www.tinypulse.com/)    
