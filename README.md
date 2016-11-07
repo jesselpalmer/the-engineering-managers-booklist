@@ -3,7 +3,10 @@ A curated list of great resources made for people who manage or lead web enginee
 
 ## Articles
 ### General
-[Six Recipes for Software Managers](http://eng.localytics.com/six-recipes-for-software-managers/)
+[Six Recipes for Software Managers](http://eng.localytics.com/six-recipes-for-software-managers/)     
+
+### Leadership
+[5 Tips for Being an Effective Tech Lead](https://www.thoughtworks.com/insights/blog/5-tips-being-effective-tech-lead)    
 
 ### 1:1s
 [Why 1-1 meetings are crucial to your team’s success](https://blog.asana.com/2015/05/workstyle-what-is-a-1-1/) from Asana    
