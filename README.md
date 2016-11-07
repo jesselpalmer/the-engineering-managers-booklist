@@ -57,8 +57,8 @@ A curated list of great resources made for people who manage or lead web enginee
 
 ## Books
 ### Software Engineering
-[The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)    
-[The Effective Engineer](https://www.theeffectiveengineer.com/book)    
+[The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) by Andrew Hunt and David Thomas     
+[The Effective Engineer](https://www.theeffectiveengineer.com/book) by Edmond Lau        
 
 ### People
 [Peopleware](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/ref=dp_ob_title_bk) by Tom DeMarco and Tim Lister     
