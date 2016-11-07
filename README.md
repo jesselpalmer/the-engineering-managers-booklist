@@ -15,7 +15,8 @@ A curated list of great resources made for people who manage or lead web enginee
 [The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c) from Mark Rabkin    
 
 ### Teamwork
-[Guilds: Get Stuff Done Together](http://code.hootsuite.com/guilds/) from Hootsuite       
+[Guilds: Get Stuff Done Together](http://code.hootsuite.com/guilds/) from Hootsuite   
+[The Essential Guide to Building Balanced Development Teams](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80) from Eric Elliott    
 
 ### Productivity
 [How to Grow from Being Average to a 10x Engineer](http://www.theeffectiveengineer.com/blog/how-to-become-a-10x-engineer) from The Effective Engineer    
