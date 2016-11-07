@@ -17,6 +17,7 @@ A curated list of great resources made for people who manage or lead web enginee
 ### Teamwork
 [Guilds: Get Stuff Done Together](http://code.hootsuite.com/guilds/) from Hootsuite   
 [The Essential Guide to Building Balanced Development Teams](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80) from Eric Elliott    
+[How to Build a High Velocity Development Team](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021) from Eric Elliott    
 
 ### Productivity
 [How to Grow from Being Average to a 10x Engineer](http://www.theeffectiveengineer.com/blog/how-to-become-a-10x-engineer) from The Effective Engineer    
