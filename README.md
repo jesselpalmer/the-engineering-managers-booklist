@@ -79,6 +79,7 @@ A curated list of great resources made for people who manage or lead web enginee
 [High Output Managment](https://www.amazon.com/dp/B015VACHOK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Andrew S. Grove        
 
 ### Leadership
+[Leading Snowflakes](http://leadingsnowflakes.com/) by Oren Ellenbogen    
 [The Score Takes Care of Itself](https://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472) by Bill Walsh, Steve Jamison, and Craig Walsh    
 
 ## Tools
