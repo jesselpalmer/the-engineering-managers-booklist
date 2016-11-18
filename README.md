@@ -55,6 +55,9 @@ A curated list of great resources made for people who manage or lead web enginee
 [Pony Foo Weekly](https://ponyfoo.com/weekly)    
 [JavaScript Weekly](http://javascriptweekly.com/)    
 
+### Front End
+[FrontEnd Focus](http://frontendfocus.co/)
+
 ## Interviewing
 ### Front End Specific
 [Interview Questions for front-end-Developer](http://thatjsdude.com/interview/index.html)    
