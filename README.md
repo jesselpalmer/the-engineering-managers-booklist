@@ -1,4 +1,4 @@
-# The Web Engineering Manager's Handbook
+# The Web Developers Manager's Handbook
 A curated list of great resources made for people who manage or lead web engineering teams. Pull requests are welcome.
 
 ## Articles
