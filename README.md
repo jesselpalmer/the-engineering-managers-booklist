@@ -56,7 +56,10 @@ A curated list of great resources made for people who manage or lead web enginee
 [JavaScript Weekly](http://javascriptweekly.com/)    
 
 ### Front End
-[FrontEnd Focus](http://frontendfocus.co/)
+[FrontEnd Focus](http://frontendfocus.co/)    
+
+### Mobile Web   
+[Mobile Web Weekly](http://mobilewebweekly.co/)    
 
 ## Interviewing
 ### Front End Specific
