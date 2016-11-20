@@ -61,6 +61,9 @@ A curated list of great resources made for people who manage or lead web develop
 ### Mobile Web   
 [Mobile Web Weekly](http://mobilewebweekly.co/)    
 
+### CSS
+[CSS Weekly](http://css-weekly.com/)
+
 ## Interviewing
 ### Front End Specific
 [Interview Questions for front-end-Developer](http://thatjsdude.com/interview/index.html)    
