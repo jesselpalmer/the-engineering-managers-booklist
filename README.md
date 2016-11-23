@@ -28,6 +28,9 @@ A curated list of great resources made for people who manage or lead web develop
 [How to Grow from Being Average to a 10x Engineer](http://www.theeffectiveengineer.com/blog/how-to-become-a-10x-engineer) from The Effective Engineer    
 
 ### Culture
+[The Buffer Culture](http://www.slideshare.net/Bufferapp/buffer-culture-03) from Buffer   
+[Culture Code: Creating A Lovable Company](http://www.slideshare.net/HubSpot/the-hubspot-culture-code-creating-a-company-we-love) from HubSpot    
+[Optimizing for Happiness](https://speakerdeck.com/mojombo/optimizing-for-happiness) from GitHub   
 [What Makes a Good Engineering Culture](http://www.theeffectiveengineer.com/blog/what-makes-a-good-engineering-culture) from The Effective Engineer     
 [What Google Learned From Its Quest to Build the Perfect Team](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) from New York Times    
 [Why psychological safety matters and what to do about it](https://rework.withgoogle.com/blog/how-to-foster-psychological-safety/) from Google    
