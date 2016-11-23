@@ -88,11 +88,11 @@ A curated list of great resources made for people who manage or lead web develop
 [Rework](https://www.amazon.com/Rework-Jason-Fried-ebook/dp/B002MUAJ2A/ref=pd_sim_351_21) by Jason Fried and David Heinemeier Hansson    
 [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002) by Gene Kim, Patrick Debois, John Willis and Jez Humble         
 [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO/ref=sr_1_1) by Gene Kim, Kevin Behr and George Spafford     
+[Optimizing For Happiness](https://speakerdeck.com/mojombo/optimizing-for-happiness) by Tom Preston-Werner    
 
 ### Management
 [Death by Meeting](https://www.amazon.com/Death-Meeting-Leadership-Business-Lencioni-ebook/dp/B008L03W7O/ref=pd_sim_351_40) by Patrick M. Lencioni   
 [High Output Managment](https://www.amazon.com/dp/B015VACHOK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Andrew S. Grove        
-
 ### Leadership
 [Leading Snowflakes](http://leadingsnowflakes.com/) by Oren Ellenbogen    
 [The Score Takes Care of Itself](https://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472) by Bill Walsh, Steve Jamison, and Craig Walsh    
