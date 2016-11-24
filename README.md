@@ -1,7 +1,7 @@
 # The Web Development Manager's Handbook
 A curated list of great resources made for people who manage or lead web development teams. Pull requests are welcome.
 
-[Articles](#Articles)
+[Articles](.#Articles)
 
 ## Articles
 ### General
