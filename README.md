@@ -6,6 +6,7 @@ A curated list of great resources made for people who manage or lead web develop
 [Newsletters](#newsletters)    
 [Books](#books)    
 [Interviewing](#interviewing)    
+[Tools](#tools)    
 
 ## Articles
 ### General
@@ -47,11 +48,6 @@ A curated list of great resources made for people who manage or lead web develop
 
 ### Goal Setting
 [About predictability and clearly defining team goals](http://ourbit.norbertoherz.com//2016/11/01/about-predictability-and-team-goals/) from Norberto L. Herz        
-
-## Team Surveys
-[15Five](https://www.15five.com/)    
-[TINYPulse](https://www.tinypulse.com/)    
-[Google Forms](https://www.google.com/forms/about/)
 
 ## Newsletters
 ### Leadership
@@ -108,6 +104,11 @@ A curated list of great resources made for people who manage or lead web develop
 [The Score Takes Care of Itself](https://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472) by Bill Walsh, Steve Jamison, and Craig Walsh    
 
 ## Tools
+## Team Surveys
+[15Five](https://www.15five.com/)    
+[TINYPulse](https://www.tinypulse.com/)    
+[Google Forms](https://www.google.com/forms/about/)
+
 ### Apps
 #### Mobile
 ##### Mindfulness
