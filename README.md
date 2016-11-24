@@ -3,6 +3,8 @@ A curated list of great resources made for people who manage or lead web develop
 
 [Articles](#articles)    
 [Newsletters](#newsletters)    
+[Books](#books)    
+[Interviewing](#interviewing)    
 
 ## Articles
 ### General
