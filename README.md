@@ -18,7 +18,7 @@ A curated list of great resources made for people who manage or lead web develop
 [A 101 on 1:1s](https://labs.spotify.com/2015/12/16/a-101-on-11s/) from Spotify   
 [Conducting Effective and Regular One-on-Ones](https://moz.com/blog/conducting-effective-and-regular-oneonones) from Moz    
 [The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c) from Mark Rabkin    
-[7 Essential Tips for Effective 1 on 1 Meetings with Your Manager](https://getlighthouse.com/blog/effective-1-on-1-meetings)   
+[7 Essential Tips for Effective 1 on 1 Meetings with Your Manager](https://getlighthouse.com/blog/effective-1-on-1-meetings) from Lighthouse      
 
 ### Teamwork
 [Guilds: Get Stuff Done Together](http://code.hootsuite.com/guilds/) from Hootsuite   
