@@ -1,11 +1,13 @@
 # The Web Development Manager's Handbook
 A curated list of great resources made for people who manage or lead web development teams. Pull requests are welcome.
 
+[Articles](#Articles)
+
 ## Articles
 ### General
 [Six Recipes for Software Managers](http://eng.localytics.com/six-recipes-for-software-managers/) from Localytics      
 
-### Leadership
+### Leadershi.p
 [5 Tips for Being an Effective Tech Lead](https://www.thoughtworks.com/insights/blog/5-tips-being-effective-tech-lead) from Thoughtworks    
 [Three Powerful Conversations Managers Must Have To Develop Their People](http://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people/) from First Round        
 [Scaling your software becomes increasingly easier, but what about scaling your team?](https://medium.com/@orenellenbogen/scaling-your-software-becomes-increasingly-easier-but-what-about-scaling-your-team-f8ab8e0da20f#.3t23ki1ao) from Oren Ellenbogen       
