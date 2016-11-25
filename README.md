@@ -3,10 +3,10 @@ A curated list of great resources made for people who manage or lead web develop
 
 ## Table of Contents
 1. [Articles](#articles)    
-2. [Newsletters](#newsletters)    
-[Books](#books)    3. 
-[Interviewing](#interviewing)    
-[Tools](#tools)    
+1. [Newsletters](#newsletters)    
+1. [Books](#books)    
+1. [Interviewing](#interviewing)    
+1. [Tools](#tools)    
 
 ## Articles
 ### General
@@ -49,6 +49,8 @@ A curated list of great resources made for people who manage or lead web develop
 ### Goal Setting
 [About predictability and clearly defining team goals](http://ourbit.norbertoherz.com//2016/11/01/about-predictability-and-team-goals/) from Norberto L. Herz        
 
+**[⬆ back to top](#table-of-contents)**
+
 ## Newsletters
 ### Leadership
 [Software Lead Weekly](http://softwareleadweekly.com/)    
@@ -78,6 +80,8 @@ A curated list of great resources made for people who manage or lead web develop
 [Front End Web Development Quiz](http://davidshariff.com/quiz/)    
 [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)    
 
+**[⬆ back to top](#table-of-contents)**
+
 ## Books
 ### Software Engineering
 [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) by Andrew Hunt and David Thomas     
@@ -101,7 +105,9 @@ A curated list of great resources made for people who manage or lead web develop
 [High Output Managment](https://www.amazon.com/dp/B015VACHOK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Andrew S. Grove        
 ### Leadership
 [Leading Snowflakes](http://leadingsnowflakes.com/) by Oren Ellenbogen    
-[The Score Takes Care of Itself](https://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472) by Bill Walsh, Steve Jamison, and Craig Walsh    
+[The Score Takes Care of Itself](https://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472) by Bill Walsh, Steve Jamison, and Craig Walsh   
+
+**[⬆ back to top](#table-of-contents)**
 
 ## Tools
 ### Team Surveys
@@ -120,4 +126,6 @@ A curated list of great resources made for people who manage or lead web develop
 #### Web / Mobile
 ##### Project Management
 [Trello](https://trello.com/)    
-[Asana](https://asana.com)
+[Asana](https://asana.com)    
+
+**[⬆ back to top](#table-of-contents)**
