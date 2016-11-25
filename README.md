@@ -2,9 +2,9 @@
 A curated list of great resources made for people who manage or lead web development teams. Pull requests are welcome.
 
 ## Table of Contents
-[Articles](#articles)    
-[Newsletters](#newsletters)    
-[Books](#books)    
+1. [Articles](#articles)    
+2. [Newsletters](#newsletters)    
+[Books](#books)    3. 
 [Interviewing](#interviewing)    
 [Tools](#tools)    
 
