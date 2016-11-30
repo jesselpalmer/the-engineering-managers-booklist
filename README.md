@@ -72,7 +72,10 @@ A curated list of great resources made for people who manage or lead web develop
 [Mobile Web Weekly](http://mobilewebweekly.co/)    
 
 ### CSS
-[CSS Weekly](http://css-weekly.com/)
+[CSS Weekly](http://css-weekly.com/)    
+
+### Design    
+[Sidebar](http://sidebar.io/)    
 
 ## Interviewing
 ### Front End Specific
