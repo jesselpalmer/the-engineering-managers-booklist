@@ -11,6 +11,7 @@ A curated list of great resources made for people who manage or lead web develop
 ## Articles
 ### General
 [Six Recipes for Software Managers](http://eng.localytics.com/six-recipes-for-software-managers/) from Localytics      
+[The 6 Surprising Questions that Ensure the Effectiveness of Google Management](https://getlighthouse.com/blog/google-management/) from Lighthouse        
 
 ### Leadership
 [5 Tips for Being an Effective Tech Lead](https://www.thoughtworks.com/insights/blog/5-tips-being-effective-tech-lead) from Thoughtworks    
