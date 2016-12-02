@@ -105,7 +105,7 @@ A curated list of great resources made for people who manage or lead web develop
 
 ### Management
 [Death by Meeting](https://www.amazon.com/Death-Meeting-Leadership-Business-Lencioni-ebook/dp/B008L03W7O/ref=pd_sim_351_40) by Patrick M. Lencioni   
-[High Output Managment](https://www.amazon.com/dp/B015VACHOK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Andrew S. Grove 
+[High Output Managment](https://www.amazon.com/dp/B015VACHOK/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Andrew S. Grove    
 [Managing Oneself](https://www.amazon.com/Managing-Oneself-Harvard-Business-Classics/dp/142212312X/ref=sr_1_1?s=books&ie=UTF8&qid=1480714419&sr=1-1&keywords=Managing+Oneself%E2%80%8A%E2%80%94%E2%80%8APeter+Drucker)           
 [The ONE Thing](https://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results/dp/1885167776/ref=sr_1_1?s=books&ie=UTF8&qid=1480714540&sr=1-1&keywords=The+ONE+Thing%3A)    
 [Radical Focus](https://www.amazon.com/Radical-Focus-Achieving-Important-Objectives/dp/0996006028/ref=as_li_ss_tl?ie=UTF8&qid=1480258266&sr=8-1&keywords=Radical+Focus&linkCode=sl1&tag=freshzen-20&linkId=c8f294ed83129895d1df1253337afe81)    
