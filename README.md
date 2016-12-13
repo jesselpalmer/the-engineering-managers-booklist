@@ -44,6 +44,7 @@ A curated list of great resources made for people who manage or lead web develop
 [What Makes a Good Engineering Culture](http://www.theeffectiveengineer.com/blog/what-makes-a-good-engineering-culture) from The Effective Engineer     
 [What Google Learned From Its Quest to Build the Perfect Team](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) from New York Times    
 [Why psychological safety matters and what to do about it](https://rework.withgoogle.com/blog/how-to-foster-psychological-safety/) from Google    
+[Building and Motivating Engineering Teams](https://medium.com/swlh/building-and-motivating-engineering-teams-24fd56910039) from The Startup    
 
 ### Blogging
 [Yes, your team should be blogging](http://michaelrbernste.in/2016/11/02/blog-blog-blog.html) from Michael Robert Bernstein   
