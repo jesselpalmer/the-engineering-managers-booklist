@@ -45,6 +45,7 @@ A curated list of great resources made for people who manage or lead web develop
 [What Google Learned From Its Quest to Build the Perfect Team](http://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) from New York Times    
 [Why psychological safety matters and what to do about it](https://rework.withgoogle.com/blog/how-to-foster-psychological-safety/) from Google    
 [Building and Motivating Engineering Teams](https://medium.com/swlh/building-and-motivating-engineering-teams-24fd56910039) from The Startup    
+[What Companies Get Wrong About Motivating Their People](https://www.washingtonpost.com/news/on-leadership/wp/2016/11/25/what-companies-get-wrong-about-motivating-their-people/?utm_term=.c5af3f18cf2c) from Washington Post    
 
 ### Blogging
 [Yes, your team should be blogging](http://michaelrbernste.in/2016/11/02/blog-blog-blog.html) from Michael Robert Bernstein   
