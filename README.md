@@ -138,6 +138,7 @@ A curated list of great resources made for people who manage or lead web develop
 
 #### Web / Mobile
 ##### Project Management
+[Jira](https://jira.com/)    
 [Trello](https://trello.com/)    
 [Asana](https://asana.com)    
 
