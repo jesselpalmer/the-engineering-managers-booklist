@@ -87,6 +87,9 @@ A curated list of great resources made for people who manage or lead web develop
 [Front End Web Development Quiz](http://davidshariff.com/quiz/)    
 [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)    
 
+### Node.js
+[Node.js Interview Questions and Answers (2017 Edition)](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/) from RisingStack Engineering    
+
 **[⬆ back to top](#table-of-contents)**
 
 ## Books
