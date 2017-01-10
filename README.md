@@ -81,6 +81,9 @@ A curated list of great resources made for people who manage or lead web develop
 ### Design    
 [Sidebar](http://sidebar.io/)    
 
+### Node.js
+[Rising Stack](https://blog.risingstack.com/)    
+
 ## Interviewing
 ### Front End Specific
 [Interview Questions for front-end-Developer](http://thatjsdude.com/interview/index.html)    
