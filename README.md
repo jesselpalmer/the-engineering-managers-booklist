@@ -54,6 +54,9 @@ A curated list of great resources made for people who manage or lead web develop
 ### Goal Setting
 [About predictability and clearly defining team goals](http://ourbit.norbertoherz.com//2016/11/01/about-predictability-and-team-goals/) from Norberto L. Herz        
 
+### Meetings
+[A Field Guide to Dudes Who Ruin Meetings](https://medium.com/part-and-sum/a-field-guide-to-dudes-who-ruin-meetings-3877de28b661#.di6epdtpw) from Jim Babb    
+
 **[⬆ back to top](#table-of-contents)**
 
 ## Newsletters
