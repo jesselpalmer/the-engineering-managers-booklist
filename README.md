@@ -135,6 +135,8 @@ A curated list of great resources made for people who manage or lead web develop
 
 ## Tools
 ### Mointoring
+#### Page Performance    
+[Lighthouse](https://developers.google.com/web/tools/lighthouse/)    
 [PageSpeed Tools](https://developers.google.com/speed/pagespeed/insights/)    
 [Web Page Test](https://www.webpagetest.org)    
 
