@@ -1,5 +1,5 @@
-# The Web Development Manager's Handbook
-A curated list of great resources made for people who manage or lead web development teams. Pull requests are welcome.
+# The Web Engineering Manager's Handbook
+A curated list of great resources made for people who manage or lead web engineering teams. Pull requests are welcome.
 
 ## Table of Contents
 1. [Articles](#articles)    
@@ -13,6 +13,9 @@ A curated list of great resources made for people who manage or lead web develop
 [Six Recipes for Software Managers](http://eng.localytics.com/six-recipes-for-software-managers/) from Localytics      
 [The 6 Surprising Questions that Ensure the Effectiveness of Google Management](https://getlighthouse.com/blog/google-management/) from Lighthouse        
 [10 Key Andy Grove Quotes on Leadership from High Output Management](https://getlighthouse.com/blog/andy-grove-quotes-leadership-high-output-management) from Lighthouse        
+
+### Performance
+[Assessing Employee Performance](https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a) from Eric Elliot    
 
 ### Leadership
 [5 Tips for Being an Effective Tech Lead](https://www.thoughtworks.com/insights/blog/5-tips-being-effective-tech-lead) from Thoughtworks    
