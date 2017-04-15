@@ -64,39 +64,36 @@ A curated list of great resources made for people who manage or lead web enginee
 **[⬆ back to top](#table-of-contents)**
 
 ## Newsletters
-The newsletters section is divided into two subsections, Leadership & Management and Individual Contributor. To stay atop of this fast moving industry, it is important to stay abreast of new technologies and trends. In order to do this you want to subscribe to a mix of both leadership and management level and the individual contributor level.
 
-### Leadership & Management
-#### Leadership
+### Leadership
 [Software Lead Weekly](http://softwareleadweekly.com/)    
 [Tech Leadership Weekly](http://www.techleadershipweekly.com/)    
 [Herding Cats](https://herdingcats.curated.co/)    
 [Monday Mailer](https://briangilham.com/newsletter/)   
 
-### Individual Contributor
-#### Software Engineering
+### Software Engineering
 [The Effective Engineer](http://www.theeffectiveengineer.com/)    
 
-#### JavaScript
+### JavaScript
 [Pony Foo Weekly](https://ponyfoo.com/weekly)    
 [JavaScript Weekly](http://javascriptweekly.com/)    
 
-#### Web
+### Web
 [O’Reilly Web Newsletter](http://www.oreilly.com/web-platform/newsletter.html)     
 
-#### Front End
+### Front End
 [FrontEnd Focus](http://frontendfocus.co/)    
 
-#### Mobile Web   
+### Mobile Web   
 [Mobile Web Weekly](http://mobilewebweekly.co/)    
 
-#### CSS
+### CSS
 [CSS Weekly](http://css-weekly.com/)    
 
-#### Design    
+### Design    
 [Sidebar](http://sidebar.io/)    
 
-#### Node.js
+### Node.js
 [Rising Stack](https://blog.risingstack.com/)    
 
 ## Interviewing
