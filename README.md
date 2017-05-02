@@ -139,7 +139,9 @@ A curated list of great resources made for people who manage or lead web enginee
 ### Leadership
 [Leading Snowflakes](http://leadingsnowflakes.com/) by Oren Ellenbogen    
 [The Score Takes Care of Itself](https://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472) by Bill Walsh, Steve Jamison, and Craig Walsh   
-[Leadership is an Art](https://www.amazon.com/Leadership-Art-Max-Depree/dp/0385512465/ref=as_li_ss_tl?ie=UTF8&qid=1480257189&sr=8-1&keywords=Leadership+is+an+Art&linkCode=sl1&tag=freshzen-20&linkId=11c1d03eb793fb0ccdc53a36b374da19) from Max Depree        
+[Leadership is an Art](https://www.amazon.com/Leadership-Art-Max-Depree/dp/0385512465/ref=as_li_ss_tl?ie=UTF8&qid=1480257189&sr=8-1&keywords=Leadership+is+an+Art&linkCode=sl1&tag=freshzen-20&linkId=11c1d03eb793fb0ccdc53a36b374da19) from Max Depree    
+[Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1250103509) by Kim Scott    
+[Nonviolent Communication: A Language of Life](https://www.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships/dp/189200528X) by Marshall B. Rosenberg PhD   
 
 ### Public Speaking
 [Demystifying Public Speaking](https://alistapart.com/article/demystifying-public-speaking)    
