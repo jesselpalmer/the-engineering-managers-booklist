@@ -113,6 +113,12 @@ A curated list of great resources made for people who manage or lead web enginee
 [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) by Andrew Hunt and David Thomas     
 [The Effective Engineer](https://www.theeffectiveengineer.com/book) by Edmond Lau        
 
+### Continuous Delivery
+[Continuous Delivery](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912/) by Jez Humble and David Farley      
+
+### Testing
+[Test Driven Development](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530) by Kent Beck          
+
 ### People
 [Peopleware](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/ref=dp_ob_title_bk) by Tom DeMarco and Tim Lister     
 [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/) by Frederick P. Brooks Jr.    
