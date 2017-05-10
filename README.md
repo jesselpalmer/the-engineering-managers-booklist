@@ -103,6 +103,9 @@ A curated list of great resources made for people who manage or lead web enginee
 [Front End Web Development Quiz](http://davidshariff.com/quiz/)    
 [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)    
 
+### JavaScript
+[21 Essential JavaScript Interview Questions](https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z)     
+
 ### Node.js
 [Node.js Interview Questions and Answers (2017 Edition)](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/) from RisingStack Engineering    
 
