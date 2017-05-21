@@ -116,8 +116,9 @@ A curated list of great resources made for people who manage or lead web enginee
 [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) by Andrew Hunt and David Thomas     
 [The Effective Engineer](https://www.theeffectiveengineer.com/book) by Edmond Lau        
 
-### Continuous Delivery
+### Continuous Delivery / Continuous Integration
 [Continuous Delivery](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912/) by Jez Humble and David Farley      
+[Continuous Integration: Improving Software Quality and Reducing Risk](https://www.amazon.com/gp/product/0321336380/ref=as_li_ss_tl?ie=UTF8&tag=ionecond-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321336380) by Paul M. Duvall, Steve Matyas, and Andrew Glover     
 
 ### Testing
 [Test Driven Development](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530) by Kent Beck          
