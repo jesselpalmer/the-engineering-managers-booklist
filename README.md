@@ -115,6 +115,8 @@ A curated list of great resources made for people who manage or lead web enginee
 ### Software Engineering
 [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) by Andrew Hunt and David Thomas     
 [The Effective Engineer](https://www.theeffectiveengineer.com/book) by Edmond Lau        
+[Rapid Development](https://www.amazon.com/Rapid-Development-Taming-Software-Schedules/dp/1556159005) by Steve McConnell    
+[Software Estimation: Demystifying the Black Art](https://www.amazon.com/Software-Estimation-Demystifying-Developer-Practices/dp/0735605351) by Steve McConnell    
 
 ### Continuous Delivery / Continuous Integration
 [Continuous Delivery](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912/) by Jez Humble and David Farley      
