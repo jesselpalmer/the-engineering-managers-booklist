@@ -98,6 +98,9 @@ A curated list of great resources made for people who manage or lead web enginee
 [Rising Stack](https://blog.risingstack.com/)    
 
 ## Interviewing
+### General
+[How to Interview Engineers](http://blog.triplebyte.com/how-to-interview-engineers)    
+
 ### Front End Specific
 [Interview Questions for front-end-Developer](http://thatjsdude.com/interview/index.html)    
 [Front End Web Development Quiz](http://davidshariff.com/quiz/)    
