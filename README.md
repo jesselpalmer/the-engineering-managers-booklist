@@ -67,49 +67,19 @@ A curated list of great resources made for people who manage or lead web enginee
 ## Newsletters
 
 ### Leadership
-[Software Lead Weekly](http://softwareleadweekly.com/)    
-[Tech Leadership Weekly](http://www.techleadershipweekly.com/)    
-[Leading Software People](https://leadingsoftwarepeople.statushero.com/)         
+[Leading Software People](https://leadingsoftwarepeople.statushero.com/)     
+[Software Lead Weekly](http://softwareleadweekly.com/)       
+[Tech Leadership Weekly](http://www.techleadershipweekly.com/)     
+[Engineering Impact](https://www.gitprime.com/engineering-impact/)    
 
 ### Software Engineering
 [The Effective Engineer](http://www.theeffectiveengineer.com/)    
 
-### JavaScript
-[Pony Foo Weekly](https://ponyfoo.com/weekly)    
-[JavaScript Weekly](http://javascriptweekly.com/)    
+## Public Speaking    
+[Technically Speaking](http://tinyletter.com/techspeak)    
 
-### Web
-[O’Reilly Web Newsletter](http://www.oreilly.com/web-platform/newsletter.html)     
-
-### Front End
-[FrontEnd Focus](http://frontendfocus.co/)    
-
-### Mobile Web   
-[Mobile Web Weekly](http://mobilewebweekly.co/)    
-
-### CSS
-[CSS Weekly](http://css-weekly.com/)    
-
-### Design    
-[Sidebar](http://sidebar.io/)    
-
-### Node.js
-[Rising Stack](https://blog.risingstack.com/)    
-
-## Interviewing
-### General
+## Interviewing    
 [How to Interview Engineers](http://blog.triplebyte.com/how-to-interview-engineers)    
-
-### Front End Specific
-[Interview Questions for front-end-Developer](http://thatjsdude.com/interview/index.html)    
-[Front End Web Development Quiz](http://davidshariff.com/quiz/)    
-[Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)    
-
-### JavaScript
-[21 Essential JavaScript Interview Questions](https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z)     
-
-### Node.js
-[Node.js Interview Questions and Answers (2017 Edition)](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/) from RisingStack Engineering    
 
 **[⬆ back to top](#table-of-contents)**
 
