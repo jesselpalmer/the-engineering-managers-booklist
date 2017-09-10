@@ -75,8 +75,10 @@ A curated list of great resources made for people who manage or lead web enginee
 ### Software Engineering
 [The Effective Engineer](http://www.theeffectiveengineer.com/)    
 
-## Public Speaking    
+### Public Speaking    
 [Technically Speaking](http://tinyletter.com/techspeak)    
+
+**[⬆ back to top](#table-of-contents)**
 
 ## Interviewing    
 [How to Interview Engineers](http://blog.triplebyte.com/how-to-interview-engineers)    
