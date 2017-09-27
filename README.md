@@ -4,8 +4,8 @@ A curated list of great resources made for people who manage or lead web enginee
 ## Table of Contents
 1. [Articles](#articles)    
 1. [Newsletters](#newsletters)    
-1. [Books](#books)    
-1. [Interviewing](#interviewing)    
+1. [Interviewing](#interviewing)     
+1. [Books](#books)   
 1. [Tools](#tools)    
 
 ## Articles
