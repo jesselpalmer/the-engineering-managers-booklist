@@ -133,7 +133,7 @@ A curated list of great resources made for people who manage or lead engineering
 [Developing the Leader Within You](https://www.amazon.com/Developing-Leader-Within-John-Maxwell/dp/0785281126) by John C. Maxwell    
 
 ### Public Speaking
-[Demystifying Public Speaking](https://alistapart.com/article/demystifying-public-speaking)    
+[Demystifying Public Speaking](https://alistapart.com/article/demystifying-public-speaking) by Lara Hogan         
 
 **[⬆ back to top](#table-of-contents)**
 
