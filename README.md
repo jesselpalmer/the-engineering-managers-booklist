@@ -21,7 +21,7 @@ A curated list of great resources made for people who manage or lead web enginee
 ### Leadership
 [5 Tips for Being an Effective Tech Lead](https://www.thoughtworks.com/insights/blog/5-tips-being-effective-tech-lead) from Thoughtworks    
 [Three Powerful Conversations Managers Must Have To Develop Their People](http://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people/) from First Round        
-[Scaling your software becomes increasingly easier, but what about scaling your team?](https://medium.com/@orenellenbogen/scaling-your-software-becomes-increasingly-easier-but-what-about-scaling-your-team-f8ab8e0da20f#.3t23ki1ao) from Oren Ellenbogen       
+[Scaling your software becomes increasingly easier, but what about scaling your team?](https://medium.com/@orenellenbogen/scaling-your-software-becomes-increasingly-easier-but-what-about-scaling-your-team-f8ab8e0da20f#.3t23ki1ao) from Oren Ellenbogen     
 
 ### 1:1s
 [Why 1-1 meetings are crucial to your team’s success](https://blog.asana.com/2015/05/workstyle-what-is-a-1-1/) from Asana    
@@ -93,8 +93,8 @@ A curated list of great resources made for people who manage or lead web enginee
 [Software Estimation: Demystifying the Black Art](https://www.amazon.com/Software-Estimation-Demystifying-Developer-Practices/dp/0735605351) by Steve McConnell    
 
 ### Continuous Delivery / Continuous Integration
-[Continuous Delivery](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912/) by Jez Humble and David Farley      
-[Continuous Integration: Improving Software Quality and Reducing Risk](https://www.amazon.com/gp/product/0321336380/ref=as_li_ss_tl?ie=UTF8&tag=ionecond-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0321336380) by Paul M. Duvall, Steve Matyas, and Andrew Glover     
+[Continuous Delivery](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912) by Jez Humble and David Farley      
+[Continuous Integration: Improving Software Quality and Reducing Risk](https://www.amazon.com/gp/product/0321336380) by Paul M. Duvall, Steve Matyas, and Andrew Glover     
 
 ### Testing
 [Test Driven Development](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530) by Kent Beck          
@@ -105,31 +105,31 @@ A curated list of great resources made for people who manage or lead web enginee
 
 ### Culture
 [The Hard Thing About Hard Things](https://www.amazon.com/dp/B00DQ845EA) by Ben Horowitz    
-[Good to Great](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6/ref=pd_sim_351_15) by Jim Collins     
-[How Google Works](https://www.amazon.com/How-Google-Works/dp/B00MOZPSYW/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=) by Eric Schmidt, Jonathan Rosenberg and Alan Eagle   
-[Rework](https://www.amazon.com/Rework-Jason-Fried-ebook/dp/B002MUAJ2A/ref=pd_sim_351_21) by Jason Fried and David Heinemeier Hansson    
+[Good to Great](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6) by Jim Collins     
+[How Google Works](https://www.amazon.com/How-Google-Works/dp/B00MOZPSYW) by Eric Schmidt, Jonathan Rosenberg and Alan Eagle   
+[Rework](https://www.amazon.com/Rework-Jason-Fried-ebook/dp/B002MUAJ2A) by Jason Fried and David Heinemeier Hansson    
 [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002) by Gene Kim, Patrick Debois, John Willis and Jez Humble         
-[The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO/ref=sr_1_1) by Gene Kim, Kevin Behr and George Spafford     
+[The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO) by Gene Kim, Kevin Behr and George Spafford     
 [Optimizing For Happiness](https://speakerdeck.com/mojombo/optimizing-for-happiness) by Tom Preston-Werner    
 [Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698) by Tom DeMarco        
 
 ### Management
-[Building Great Software Engineering Teams](http://amzn.to/2wFfRMW) by Joshua Tyler    
-[Death by Meeting](http://amzn.to/2vndGhc) by Patrick M. Lencioni   
-[High Output Management](http://amzn.to/2vmZuEN) by Andrew S. Grove    
-[Managing Humans](http://amzn.to/2wEXesy) by Michael Lopp    
-[Managing Oneself](http://amzn.to/2xtEdqj) by Peter Drucker           
-[The ONE Thing](http://amzn.to/2wjL9Gx) by Gary Keller and Jay Papasan    
-[Radical Focus](http://amzn.to/2vFlqWR) by Christina Wodtke    
-[The Advantage](http://amzn.to/2wjKRzr) by Patrick Lencioni    
+[Building Great Software Engineering Teams](https://www.amazon.com/Building-Great-Software-Engineering-Teams/dp/1484211340) by Joshua Tyler    
+[Death by Meeting](https://www.amazon.com/Death-Meeting-Leadership-Solving-Business/dp/0787968056) by Patrick M. Lencioni   
+[High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884) by Andrew S. Grove    
+[Managing Humans](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575) by Michael Lopp    
+[Managing Oneself](https://www.amazon.com/Managing-Oneself-Harvard-Business-Classics/dp/142212312X) by Peter Drucker           
+[The ONE Thing](https://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results/dp/1885167776) by Gary Keller and Jay Papasan    
+[Radical Focus](https://www.amazon.com/Radical-Focus-Achieving-Important-Objectives/dp/0996006028) by Christina Wodtke    
+[The Advantage](https://www.amazon.com/Advantage-Organizational-Health-Everything-Business/dp/0470941529) by Patrick Lencioni    
 
 ### Leadership
 [Leading Snowflakes](http://leadingsnowflakes.com/) by Oren Ellenbogen    
-[The Score Takes Care of Itself](http://amzn.to/2gfQivq) by Bill Walsh, Steve Jamison, and Craig Walsh   
-[Leadership is an Art](http://amzn.to/2wIpWc9) from Max Depree    
-[Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity](http://amzn.to/2weTzPw) by Kim Scott    
-[Nonviolent Communication: A Language of Life](http://amzn.to/2gfufon) by Marshall B. Rosenberg PhD   
-[Developing the Leader Within You](http://amzn.to/2wziYG8) by John C. Maxwell    
+[The Score Takes Care of Itself](https://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472) by Bill Walsh, Steve Jamison, and Craig Walsh   
+[Leadership is an Art](https://www.amazon.com/Leadership-Art-Max-Depree/dp/0385512465) from Max Depree    
+[Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1250103509) by Kim Scott    
+[Nonviolent Communication: A Language of Life](https://www.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships/dp/189200528X) by Marshall B. Rosenberg PhD   
+[Developing the Leader Within You](https://www.amazon.com/Developing-Leader-Within-John-Maxwell/dp/0785281126) by John C. Maxwell    
 
 ### Public Speaking
 [Demystifying Public Speaking](https://alistapart.com/article/demystifying-public-speaking)    
@@ -137,29 +137,22 @@ A curated list of great resources made for people who manage or lead web enginee
 **[⬆ back to top](#table-of-contents)**
 
 ## Tools
-### Mointoring
-#### Page Performance    
-[Lighthouse](https://developers.google.com/web/tools/lighthouse/)    
-[PageSpeed Tools](https://developers.google.com/speed/pagespeed/insights/)    
-[Web Page Test](https://www.webpagetest.org)    
-
 ### Team Surveys
 [15Five](https://www.15five.com/)    
 [TINYPulse](https://www.tinypulse.com/)    
-[Google Forms](https://www.google.com/forms/about/)
+[Google Forms](https://www.google.com/forms/about/)    
 
-### Apps
-#### Mobile
-##### Mindfulness
-[Headspace](https://www.headspace.com/)
-
-##### Journal
-[5 Minute Journal](https://www.intelligentchange.com/products/the-five-minute-journal)
-
-#### Web / Mobile
-##### Project Management
+#### Project Management
 [Jira](https://jira.com/)    
 [Trello](https://trello.com/)    
-[Asana](https://asana.com)    
+[Asana](https://asana.com) 
+
+### Personal Productivity
+#### Mindfulness
+[Headspace](https://www.headspace.com/)
+
+#### Journal
+[BestSelf](https://bestself.co/products/self-journal)     
+[5 Minute Journal](https://www.intelligentchange.com/products/the-five-minute-journal)         
 
 **[⬆ back to top](#table-of-contents)**
