@@ -102,6 +102,7 @@ A curated list of great resources made for people who manage or lead engineering
 ### People
 [Peopleware](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/ref=dp_ob_title_bk) by Tom DeMarco and Tim Lister     
 [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/) by Frederick P. Brooks Jr.    
+[How to Win Friends and Influence People by Dale Carnegie](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)    
 
 ### Culture
 [The Hard Thing About Hard Things](https://www.amazon.com/dp/B00DQ845EA) by Ben Horowitz    
