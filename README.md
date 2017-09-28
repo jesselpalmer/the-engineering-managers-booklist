@@ -123,6 +123,7 @@ A curated list of great resources made for people who manage or lead engineering
 [The ONE Thing](https://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results/dp/1885167776) by Gary Keller and Jay Papasan    
 [Radical Focus](https://www.amazon.com/Radical-Focus-Achieving-Important-Objectives/dp/0996006028) by Christina Wodtke    
 [The Advantage](https://www.amazon.com/Advantage-Organizational-Health-Everything-Business/dp/0470941529) by Patrick Lencioni    
+[Management 3.0](https://www.amazon.com/gp/product/0321712471)
 
 ### Leadership
 [Leading Snowflakes](http://leadingsnowflakes.com/) by Oren Ellenbogen    
