@@ -33,6 +33,7 @@ A curated list of great resources made for people who manage or lead engineering
 [The Art of the Awkward 1:1](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c) from Mark Rabkin    
 [7 Essential Tips for Effective 1 on 1 Meetings with Your Manager](https://getlighthouse.com/blog/effective-1-on-1-meetings) from Lighthouse      
 [How to have an honest one-on-one with an employee](https://m.signalvnoise.com/how-to-have-an-honest-one-on-one-with-an-employee-24bbddeb0f47#.pwsmwxjnb) from Signal vs Noise        
+[How to Have Effective 1:1s](https://www.radicalcandor.com/blog/effective-one-on-ones/) from Radical Candor     
 
 ### Teamwork
 [Guilds: Get Stuff Done Together](http://code.hootsuite.com/guilds/) from Hootsuite   
