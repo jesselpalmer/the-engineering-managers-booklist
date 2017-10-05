@@ -127,6 +127,7 @@ A curated list of great resources made for people who manage or lead engineering
 [Radical Focus](https://www.amazon.com/Radical-Focus-Achieving-Important-Objectives/dp/0996006028) by Christina Wodtke    
 [The Advantage](https://www.amazon.com/Advantage-Organizational-Health-Everything-Business/dp/0470941529) by Patrick Lencioni    
 [Management 3.0](https://www.amazon.com/gp/product/0321712471) by Jurgen Appelo    
+[Growing Software: Proven Strategies for Managing Software Engineers](https://www.amazon.com/gp/product/1593271832) by Louis Testa     
 
 ### Leadership
 [Leading Snowflakes](http://leadingsnowflakes.com/) by Oren Ellenbogen    
