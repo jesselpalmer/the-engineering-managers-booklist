@@ -129,6 +129,7 @@ A curated list of great resources made for people who manage or lead engineering
 [Management 3.0](https://www.amazon.com/gp/product/0321712471) by Jurgen Appelo    
 [Growing Software: Proven Strategies for Managing Software Engineers](https://www.amazon.com/gp/product/1593271832) by Louis Testa     
 [Principles of Software Engineering Management](https://www.amazon.com/Principles-Software-Engineering-Management-Gilb/dp/0201192462) by Tom Glib   
+[The Goal: A Process of Ongoing Improvement](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884270610) by Eliyahu M. Goldratt and Jeff Cox    
 
 ### Leadership
 [Leading Snowflakes](http://leadingsnowflakes.com/) by Oren Ellenbogen    
