@@ -10,9 +10,9 @@ A curated list of great resources made for people who manage or lead engineering
 
 ## Articles
 ### General
-[Google's Manager Resources Website](https://rework.withgoogle.com/subjects/managers/) from Google   
-[Six Recipes for Software Managers](http://eng.localytics.com/six-recipes-for-software-managers/) from Localytics       
-[8 Key Tactics For Developing Employees](https://www.forbes.com/sites/steveolenski/2015/07/20/8-key-tactics-for-developing-employees/#403567a66373) from Forbes       
+[Google's Manager Resources Website](https://rework.withgoogle.com/subjects/managers/) from Google      
+[Six Recipes for Software Managers](http://eng.localytics.com/six-recipes-for-software-managers/) from Localytics      
+[8 Key Tactics For Developing Employees](https://www.forbes.com/sites/steveolenski/2015/07/20/8-key-tactics-for-developing-employees/#403567a66373) from Forbes        
 [The 6 Surprising Questions that Ensure the Effectiveness of Google Management](https://getlighthouse.com/blog/google-management/) from Lighthouse        
 [10 Key Andy Grove Quotes on Leadership from High Output Management](https://getlighthouse.com/blog/andy-grove-quotes-leadership-high-output-management) from Lighthouse        
 [How do managers get stuck?](http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html) from Elided Branches    
