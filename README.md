@@ -1,12 +1,12 @@
-# Awesome Engineering Manager's Handbook [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of great resources made for people who manage or lead engineering teams. Pull requests are welcome.
+  # Awesome Engineering Manager's Handbook [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+  A curated list of great resources made for people who manage or lead engineering teams. Pull requests are welcome.
 
-## Table of Contents
-1. [Articles](#articles)    
-1. [Newsletters](#newsletters)    
-1. [Interviewing](#interviewing)     
-1. [Books](#books)   
-1. [Tools](#tools)    
+  ## Table of Contents
+  1. [Articles](#articles)    
+  1. [Newsletters](#newsletters)    
+  1. [Interviewing](#interviewing)     
+  1. [Books](#books)   
+  1. [Tools](#tools)    
 
 ## Articles
 ### General
@@ -24,6 +24,7 @@ A curated list of great resources made for people who manage or lead engineering
 [5 Tips for Being an Effective Tech Lead](https://www.thoughtworks.com/insights/blog/5-tips-being-effective-tech-lead) from Thoughtworks    
 [Three Powerful Conversations Managers Must Have To Develop Their People](http://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people/) from First Round        
 [Scaling your software becomes increasingly easier, but what about scaling your team?](https://medium.com/@orenellenbogen/scaling-your-software-becomes-increasingly-easier-but-what-about-scaling-your-team-f8ab8e0da20f#.3t23ki1ao) from Oren Ellenbogen     
+[The Best Leaders Are Humble Leaders](https://hbr.org/2014/05/the-best-leaders-are-humble-leaders) from Havard Business Review     
 
 ### 1:1s
 [Why 1-1 meetings are crucial to your team’s success](https://blog.asana.com/2015/05/workstyle-what-is-a-1-1/) from Asana    
