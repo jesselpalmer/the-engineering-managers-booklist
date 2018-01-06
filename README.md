@@ -21,7 +21,8 @@
 [Assessing Employee Performance](https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a) from Eric Elliot    
 
 ### Leadership
-[5 Tips for Being an Effective Tech Lead](https://www.thoughtworks.com/insights/blog/5-tips-being-effective-tech-lead) from Thoughtworks    
+[Effective Technical Leadership](https://medium.com/always-be-coding/effective-technical-leadership-b193a544e771) from David Byttow       
+[5 Tips for Being an Effective Tech Lead](https://www.thoughtworks.com/insights/blog/5-tips-being-effective-tech-lead) from Thoughtworks     
 [Three Powerful Conversations Managers Must Have To Develop Their People](http://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people/) from First Round        
 [Scaling your software becomes increasingly easier, but what about scaling your team?](https://medium.com/@orenellenbogen/scaling-your-software-becomes-increasingly-easier-but-what-about-scaling-your-team-f8ab8e0da20f#.3t23ki1ao) from Oren Ellenbogen     
 [The Best Leaders Are Humble Leaders](https://hbr.org/2014/05/the-best-leaders-are-humble-leaders) from Havard Business Review     
