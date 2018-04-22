@@ -1,5 +1,11 @@
   # Awesome Engineering Manager's Handbook [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
   A curated list of great resources made for people who manage or lead engineering teams. Pull requests are welcome.
+  
+  ## Support
+  
+  If you find any other this information useful or just think that I'm a cool guy 😊, please feel free to buy me a cup of coffee. I appreciate the support!
+  
+<a href='https://ko-fi.com/Z8Z5CIP0' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
   ## Table of Contents
   1. [Articles](#articles)    
