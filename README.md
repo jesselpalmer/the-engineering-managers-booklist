@@ -1,5 +1,11 @@
   # Awesome Engineering Manager's Handbook [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
   A curated list of great resources made for people who manage or lead engineering teams. Pull requests are welcome.
+  
+  ## Support
+  
+  If you find any other this information useful or just think that I'm a cool guy 😊, please feel free to buy me a cup of coffee. I appreciate the support!
+  
+<a href='https://ko-fi.com/Z8Z5CIP0' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
   ## Table of Contents
   1. [Articles](#articles)    
@@ -21,10 +27,10 @@
 [Assessing Employee Performance](https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a) from Eric Elliot    
 
 ### Leadership
-[Effective Technical Leadership](https://medium.com/always-be-coding/effective-technical-leadership-b193a544e771) from David Byttow       
-[5 Tips for Being an Effective Tech Lead](https://www.thoughtworks.com/insights/blog/5-tips-being-effective-tech-lead) from Thoughtworks     
-[Three Powerful Conversations Managers Must Have To Develop Their People](http://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people/) from First Round        
-[Scaling your software becomes increasingly easier, but what about scaling your team?](https://medium.com/@orenellenbogen/scaling-your-software-becomes-increasingly-easier-but-what-about-scaling-your-team-f8ab8e0da20f#.3t23ki1ao) from Oren Ellenbogen     
+[Effective Technical Leadership](https://medium.com/always-be-coding/effective-technical-leadership-b193a544e771) from David Byttow     
+[5 Tips for Being an Effective Tech Lead](https://www.thoughtworks.com/insights/blog/5-tips-being-effective-tech-lead) from Thoughtworks       
+[Three Powerful Conversations Managers Must Have To Develop Their People](http://firstround.com/review/three-powerful-conversations-managers-must-have-to-develop-their-people/) from First Round  
+[Scaling your software becomes increasingly easier, but what about scaling your team?](https://medium.com/@orenellenbogen/scaling-your-software-becomes-increasingly-easier-but-what-about-scaling-your-team-f8ab8e0da20f#.3t23ki1ao) from Oren Ellenbogen 
 [The Best Leaders Are Humble Leaders](https://hbr.org/2014/05/the-best-leaders-are-humble-leaders) from Havard Business Review     
 
 ### 1:1s
@@ -157,11 +163,13 @@
 #### Project Management
 [Jira](https://jira.com/)    
 [Trello](https://trello.com/)    
-[Asana](https://asana.com) 
+[Asana](https://asana.com)     
+[GitHub Project Boards](https://help.github.com/articles/about-project-boards/)
 
 ### Personal Productivity
 #### Mindfulness
-[Headspace](https://www.headspace.com/)
+[Headspace](https://www.headspace.com/)   
+[Calm](https://www.calm.com/)    
 
 #### Journal
 [BestSelf](https://bestself.co/products/self-journal)     
