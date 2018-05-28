@@ -78,6 +78,7 @@
 ## Newsletters
 
 ### Leadership
+[On Engineering Leadership](https://tinyletter.com/jesselpalmer) This is mine 😊     
 [Leading Software People](https://leadingsoftwarepeople.statushero.com/)     
 [Software Lead Weekly](http://softwareleadweekly.com/)       
 [Tech Leadership Weekly](http://www.techleadershipweekly.com/)     
