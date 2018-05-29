@@ -10,9 +10,7 @@
   ## Table of Contents
   1. [Articles](#articles)    
   1. [Newsletters](#newsletters)    
-  1. [Interviewing](#interviewing)     
   1. [Books](#books)   
-  1. [Tools](#tools)    
 
 ## Articles
 ### General
@@ -92,11 +90,6 @@
 
 **[⬆ back to top](#table-of-contents)**
 
-## Interviewing    
-[How to Interview Engineers](http://blog.triplebyte.com/how-to-interview-engineers)    
-
-**[⬆ back to top](#table-of-contents)**
-
 ## Books
 ### Software Engineering
 [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) by Andrew Hunt and David Thomas     
@@ -152,28 +145,5 @@
 
 ### Public Speaking
 [Demystifying Public Speaking](https://alistapart.com/article/demystifying-public-speaking) by Lara Hogan         
-
-**[⬆ back to top](#table-of-contents)**
-
-## Tools
-### Team Surveys
-[15Five](https://www.15five.com/)    
-[TINYPulse](https://www.tinypulse.com/)    
-[Google Forms](https://www.google.com/forms/about/)    
-
-#### Project Management
-[Jira](https://jira.com/)    
-[Trello](https://trello.com/)    
-[Asana](https://asana.com)     
-[GitHub Project Boards](https://help.github.com/articles/about-project-boards/)
-
-### Personal Productivity
-#### Mindfulness
-[Headspace](https://www.headspace.com/)   
-[Calm](https://www.calm.com/)    
-
-#### Journal
-[BestSelf](https://bestself.co/products/self-journal)     
-[5 Minute Journal](https://www.intelligentchange.com/products/the-five-minute-journal)         
 
 **[⬆ back to top](#table-of-contents)**
