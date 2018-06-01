@@ -110,6 +110,9 @@
 [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/) by Frederick P. Brooks Jr.    
 [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034) by Dale Carnegie     
 
+### Goal Setting
+[Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://www.amazon.com/gp/product/0525536221/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=smartsoftwo07-20&creative=9325&linkCode=as2&creativeASIN=0525536221&linkId=a81bb3cd0fff520804b5f56f4c3d7f41) by John Doerr        
+
 ### Culture
 [The Hard Thing About Hard Things](https://www.amazon.com/dp/B00DQ845EA) by Ben Horowitz    
 [Good to Great](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6) by Jim Collins     
