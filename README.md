@@ -1,5 +1,5 @@
-  # Awesome Engineering Manager's Handbook [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-  A curated list of great resources made for people who manage or lead engineering teams. Pull requests are welcome.
+  # Awesome Engineering Manager's Reading List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+  A curated list of reading resources made for people who manage or lead engineering teams. Pull requests are welcome.
   
   ## Support
   
@@ -10,9 +10,7 @@
   ## Table of Contents
   1. [Articles](#articles)    
   1. [Newsletters](#newsletters)    
-  1. [Interviewing](#interviewing)     
   1. [Books](#books)   
-  1. [Tools](#tools)    
 
 ## Articles
 ### General
@@ -92,11 +90,6 @@
 
 **[⬆ back to top](#table-of-contents)**
 
-## Interviewing    
-[How to Interview Engineers](http://blog.triplebyte.com/how-to-interview-engineers)    
-
-**[⬆ back to top](#table-of-contents)**
-
 ## Books
 ### Software Engineering
 [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) by Andrew Hunt and David Thomas     
@@ -116,6 +109,9 @@
 [Peopleware](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/ref=dp_ob_title_bk) by Tom DeMarco and Tim Lister     
 [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/) by Frederick P. Brooks Jr.    
 [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034) by Dale Carnegie     
+
+### Goal Setting
+[Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs](https://www.amazon.com/gp/product/0525536221/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=smartsoftwo07-20&creative=9325&linkCode=as2&creativeASIN=0525536221&linkId=a81bb3cd0fff520804b5f56f4c3d7f41) by John Doerr        
 
 ### Culture
 [The Hard Thing About Hard Things](https://www.amazon.com/dp/B00DQ845EA) by Ben Horowitz    
@@ -152,28 +148,5 @@
 
 ### Public Speaking
 [Demystifying Public Speaking](https://alistapart.com/article/demystifying-public-speaking) by Lara Hogan         
-
-**[⬆ back to top](#table-of-contents)**
-
-## Tools
-### Team Surveys
-[15Five](https://www.15five.com/)    
-[TINYPulse](https://www.tinypulse.com/)    
-[Google Forms](https://www.google.com/forms/about/)    
-
-#### Project Management
-[Jira](https://jira.com/)    
-[Trello](https://trello.com/)    
-[Asana](https://asana.com)     
-[GitHub Project Boards](https://help.github.com/articles/about-project-boards/)
-
-### Personal Productivity
-#### Mindfulness
-[Headspace](https://www.headspace.com/)   
-[Calm](https://www.calm.com/)    
-
-#### Journal
-[BestSelf](https://bestself.co/products/self-journal)     
-[5 Minute Journal](https://www.intelligentchange.com/products/the-five-minute-journal)         
 
 **[⬆ back to top](#table-of-contents)**
