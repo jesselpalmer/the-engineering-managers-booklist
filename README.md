@@ -126,7 +126,8 @@
 [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO) by Gene Kim, Kevin Behr and George Spafford     
 [Optimizing For Happiness](https://speakerdeck.com/mojombo/optimizing-for-happiness) by Tom Preston-Werner    
 [Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698) by Tom DeMarco        
-[The Five Dysfunctions of a Team](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756) by Patrick Lencioni
+[The Five Dysfunctions of a Team](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756) by Patrick Lencioni  
+[Brotopia](https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley/dp/0735213534) by Emily Chang  
 
 ### Management
 [Building Great Software Engineering Teams](https://www.amazon.com/Building-Great-Software-Engineering-Teams/dp/1484211340) by Joshua Tyler    
