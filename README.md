@@ -185,5 +185,4 @@
 [Using Agile Techniques to Build a More Inclusive Team](https://www.youtube.com/watch?v=Atfxtk2Q90k) by Kevin Goldsmith at LeadDevLondon 2018     
 [Decode the Career Path to VP of Engineering](https://www.youtube.com/watch?v=nELJ8pDpjYw)
 
-
 **[⬆ back to top](#table-of-contents)**
