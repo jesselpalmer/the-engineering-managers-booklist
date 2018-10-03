@@ -13,6 +13,7 @@
   1. [Interviewing](#interviewing)     
   1. [Books](#books)   
   1. [Tools](#tools)    
+  1. [Videos](#videos)    
 
 ## Articles
 ### General
@@ -176,5 +177,12 @@
 #### Journal
 [BestSelf](https://bestself.co/products/self-journal)     
 [5 Minute Journal](https://www.intelligentchange.com/products/the-five-minute-journal)         
+
+**[⬆ back to top](#table-of-contents)**
+
+## Videos
+### Leadership
+[Using Agile Techniques to Build a More Inclusive Team](https://www.youtube.com/watch?v=Atfxtk2Q90k) by Kevin Goldsmith at LeadDevLondon 2018     
+[Decode the Career Path to VP of Engineering](https://www.youtube.com/watch?v=nELJ8pDpjYw)
 
 **[⬆ back to top](#table-of-contents)**
