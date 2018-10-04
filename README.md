@@ -104,7 +104,8 @@
 [The Effective Engineer](https://www.theeffectiveengineer.com/book) by Edmond Lau        
 [Rapid Development](https://www.amazon.com/Rapid-Development-Taming-Software-Schedules/dp/1556159005) by Steve McConnell    
 [Software Estimation: Demystifying the Black Art](https://www.amazon.com/Software-Estimation-Demystifying-Developer-Practices/dp/0735605351) by Steve McConnell    
-[Software Project Survival Guide](https://www.amazon.com/dp/1572316217) by Steve McConnell      
+[Software Project Survival Guide](https://www.amazon.com/dp/1572316217) by Steve McConnell
+[How To Take Your Engineering Team From Good To Great](http://codingsans.com/engineering-team-from-good-to-great) - by Tamas Torok
 
 ### Continuous Delivery / Continuous Integration
 [Continuous Delivery](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912) by Jez Humble and David Farley      
