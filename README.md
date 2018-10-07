@@ -98,10 +98,6 @@ A curated list of great resources made for people who manage or lead engineering
 
 [The Effective Engineer](http://www.theeffectiveengineer.com/)  
 
-### Public Speaking  
-
-[Technically Speaking](http://tinyletter.com/techspeak)  
-
 **[⬆ back to top](#table-of-contents)**
 
 ## Interviewing  
