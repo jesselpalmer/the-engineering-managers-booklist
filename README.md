@@ -7,7 +7,6 @@ A curated list of great resources made for people who manage or lead engineering
 
 1. [Articles](#articles)  
 1. [Newsletters](#newsletters)  
-1. [Interviewing](#interviewing)  
 1. [Books](#books)  
 1. [Tools](#tools)  
 1. [Videos](#videos)  
@@ -82,6 +81,10 @@ A curated list of great resources made for people who manage or lead engineering
 
 [A Field Guide to Dudes Who Ruin Meetings](https://medium.com/part-and-sum/a-field-guide-to-dudes-who-ruin-meetings-3877de28b661#.di6epdtpw) from Jim Babb  
 
+### Interviewing  
+
+[How to Interview Engineers](http://blog.triplebyte.com/how-to-interview-engineers)  
+
 **[⬆ back to top](#table-of-contents)**
 
 ## Newsletters
@@ -97,12 +100,6 @@ A curated list of great resources made for people who manage or lead engineering
 ### Software Engineering
 
 [The Effective Engineer](http://www.theeffectiveengineer.com/)  
-
-**[⬆ back to top](#table-of-contents)**
-
-## Interviewing  
-
-[How to Interview Engineers](http://blog.triplebyte.com/how-to-interview-engineers)  
 
 **[⬆ back to top](#table-of-contents)**
 
