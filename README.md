@@ -130,6 +130,7 @@ A curated list of great resources made for people who manage or lead engineering
 
 ### Culture
 
+[It Doesn't Have to Be Crazy at Work](https://www.amazon.com/gp/product/0062874780/ref=dbs_a_def_rwt_bibl_vppi_i0) by Jason Fried and David Heinemeier Hansson  
 [The Hard Thing About Hard Things](https://www.amazon.com/dp/B00DQ845EA) by Ben Horowitz  
 [Good to Great](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6) by Jim Collins  
 [How Google Works](https://www.amazon.com/How-Google-Works/dp/B00MOZPSYW) by Eric Schmidt, Jonathan Rosenberg and Alan Eagle  
