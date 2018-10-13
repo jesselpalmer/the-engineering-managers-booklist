@@ -69,11 +69,6 @@ A curated list of great resources made for people who manage engineering teams. 
 [What Companies Get Wrong About Motivating Their People](https://www.washingtonpost.com/news/on-leadership/wp/2016/11/25/what-companies-get-wrong-about-motivating-their-people/?utm_term=.c5af3f18cf2c) from Washington  
 [What Great Managers Do Daily](https://hbr.org/2016/12/what-great-managers-do-daily) from Harvard Business Review  
 
-### Change Management
-[Change or Die: The Three Keys to Change at Work and in Life](https://www.amazon.com/Change-Die-Three-Keys-Work/dp/B000MV8X3I/)  
-[Switch: How to Change Things When Change Is Hard](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/B0038NLX9S/)  
-[HBR's 10 Must Reads on Change Management](https://www.amazon.com/Change-Management-including-featured-Leading/dp/1422158004)  
-
 ### Blogging
 
 [Yes, your team should be blogging](http://michaelrbernste.in/2016/11/02/blog-blog-blog.html) from Michael Robert Bernstein  
@@ -171,6 +166,11 @@ A curated list of great resources made for people who manage engineering teams. 
 [Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1250103509) by Kim Scott  
 [Nonviolent Communication: A Language of Life](https://www.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships/dp/189200528X) by Marshall B. Rosenberg PhD  
 [Developing the Leader Within You](https://www.amazon.com/Developing-Leader-Within-John-Maxwell/dp/0785281126) by John C. Maxwell  
+
+### Change Management
+[Change or Die: The Three Keys to Change at Work and in Life](https://www.amazon.com/Change-Die-Three-Keys-Work/dp/B000MV8X3I/) by Alan Deutschman  
+[Switch: How to Change Things When Change Is Hard](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/B0038NLX9S/) by Dan Heath, Chip Heath, Charles Kahlenberg  
+[HBR's 10 Must Reads on Change Management](https://www.amazon.com/Change-Management-including-featured-Leading/dp/1422158004) by John P. Kotter, W. Chan Kim, Renée A. Mauborgne  
 
 ### Public Speaking
 
