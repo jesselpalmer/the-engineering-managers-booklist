@@ -172,6 +172,9 @@ A curated list of great resources made for people who manage engineering teams. 
 [Switch: How to Change Things When Change Is Hard](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/B0038NLX9S/) by Dan Heath, Chip Heath, Charles Kahlenberg  
 [HBR's 10 Must Reads on Change Management](https://www.amazon.com/Change-Management-including-featured-Leading/dp/1422158004) by John P. Kotter, W. Chan Kim, Renée A. Mauborgne  
 
+### Agile Methodologies
+[Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X) by Jeff Sutherland and JJ Sutherland  
+
 ### Public Speaking
 
 [Demystifying Public Speaking](https://alistapart.com/article/demystifying-public-speaking) by Lara Hogan  
