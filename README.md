@@ -174,6 +174,7 @@ A curated list of great resources made for people who manage engineering teams. 
 
 ### Agile Methodologies
 [Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X) by Jeff Sutherland and JJ Sutherland  
+[Essential Scrum: A Practical Guide to the Most Popular Agile Process](https://www.amazon.com/Essential-Scrum-Practical-Addison-Wesley-Signature/dp/0137043295) by Kenneth S. Rubin  
 
 ### Public Speaking
 
