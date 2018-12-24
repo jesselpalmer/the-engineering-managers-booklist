@@ -1,2 +1,5 @@
 # ignores vscode settings directory
 .vscode
+
+# ignores mac files
+.DS_Store
