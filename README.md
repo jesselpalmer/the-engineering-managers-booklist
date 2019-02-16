@@ -6,18 +6,20 @@ A curated list of great books for people who manage engineering teams. Pull requ
 ## Table of Contents
 
 ### [Soft Skills](#soft-skills)
-  [Management](#management)  
-  [Leadership](#leadership)    
-  [People](#people)  
-  [Culture](#culture)  
-  [Change Management](#change-management)   
-  [Agile Methodologies](#agile-methodologies)   
-  [Public Speaking](#public-speaking)
+---
+* [Management](#management)  
+* [Leadership](#leadership)    
+* [People](#people)  
+* [Culture](#culture)  
+* [Change Management](#change-management)   
+* [Agile Methodologies](#agile-methodologies)   
+* [Public Speaking](#public-speaking)
 
 ### [Tech Skills](#tech-skills)
-  [Software Engineering](#software-engineering)  
-  [Continuous Delivery / Continuous Integration](#continuous-delivery--continuous-integration)  
-  [Testing](#testing)   
+---
+* [Software Engineering](#software-engineering)  
+* [Continuous Delivery / Continuous Integration](#continuous-delivery--continuous-integration)  
+* [Testing](#testing)   
 
 ## Soft Skills
 
