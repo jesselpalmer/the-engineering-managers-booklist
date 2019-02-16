@@ -1,7 +1,7 @@
 
 # The Engineering Manager's Booklist
 
-A curated list of great books for people who manage engineering teams. Pull requests are welcome.
+Books for people who are or aspire to manage/lead team(s) of software engineers. Pull requests are welcome.
 
 ## Table of Contents
 
