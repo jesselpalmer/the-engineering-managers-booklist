@@ -157,6 +157,7 @@ A curated list of great resources made for people who manage engineering teams. 
 [Principles of Software Engineering Management](https://www.amazon.com/Principles-Software-Engineering-Management-Gilb/dp/0201192462) by Tom Glib  
 [The Goal: A Process of Ongoing Improvement](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884270610) by Eliyahu M. Goldratt and Jeff Cox  
 [Managing the Unmanageable: Rules, Tools, and Insights for Managing Software People and Teams](https://www.amazon.com/dp/032182203X) by Mickey W. Mantle and Ron Lichty  
+[Behind Closed Doors: Secrets of Great Management](https://www.amazon.com/Behind-Closed-Doors-Management-Programmers/dp/0976694026) by Johanna Rothman and Esther Derby
 
 ### Leadership
 
