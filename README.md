@@ -8,18 +8,20 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 ### Part I: [Soft Skills](#soft-skills)
 ---
 1. [Management](#management)  
-1. [Leadership](#leadership)    
-1. [People](#people)  
-1. [Culture](#culture)  
-1. [Change Management](#change-management)   
-1. [Agile Methodologies](#agile-methodologies)   
-1. [Public Speaking](#public-speaking)
+1. [Leadership](#leadership)     
+1. [People](#people)   
+1. [Culture](#culture)   
+1. [Change Management](#change-management)    
+1. [Agile Methodologies](#agile-methodologies)    
+1. [Communication](#communication)   
+1. [Public Speaking](#public-speaking)     
 
 ### Part II: [Tech Skills](#tech-skills)
 ---
 1. [Software Engineering](#software-engineering)  
 1. [Continuous Delivery / Continuous Integration](#continuous-delivery--continuous-integration)  
 1. [Testing](#testing)   
+1. [DevOps](#DevOps)
 
 ## Books
 
@@ -49,7 +51,6 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 [The Score Takes Care of Itself](https://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472) by Bill Walsh, Steve Jamison, and Craig Walsh  
 [Leadership is an Art](https://www.amazon.com/Leadership-Art-Max-Depree/dp/0385512465) from Max Depree  
 [Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity](https://www.amazon.com/Radical-Candor-Kick-Ass-Without-Humanity/dp/1250103509) by Kim Scott  
-[Nonviolent Communication: A Language of Life](https://www.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships/dp/189200528X) by Marshall B. Rosenberg PhD  
 [Developing the Leader Within You](https://www.amazon.com/Developing-Leader-Within-John-Maxwell/dp/0785281126) by John C. Maxwell  
 
 #### People
@@ -65,8 +66,6 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 [Good to Great](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6) by Jim Collins  
 [How Google Works](https://www.amazon.com/How-Google-Works/dp/B00MOZPSYW) by Eric Schmidt, Jonathan Rosenberg and Alan Eagle  
 [Rework](https://www.amazon.com/Rework-Jason-Fried-ebook/dp/B002MUAJ2A) by Jason Fried and David Heinemeier Hansson  
-[DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002) by Gene Kim, Patrick Debois, John Willis and Jez Humble  
-[The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO) by Gene Kim, Kevin Behr and George Spafford  
 [Optimizing For Happiness](https://speakerdeck.com/mojombo/optimizing-for-happiness) by Tom Preston-Werner  
 [Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698) by Tom DeMarco  
 [The Five Dysfunctions of a Team](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756) by Patrick Lencioni  
@@ -83,6 +82,9 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 [Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X) by Jeff Sutherland and JJ Sutherland  
 [Essential Scrum: A Practical Guide to the Most Popular Agile Process](https://www.amazon.com/Essential-Scrum-Practical-Addison-Wesley-Signature/dp/0137043295) by Kenneth S. Rubin  
 [Agile Retrospectives: Making Good Teams Great](https://www.amazon.com/dp/B00B03SRJW/) by Esther Derby, Diana Larsen, and Ken Schwaber  
+
+#### Communication
+[Nonviolent Communication: A Language of Life](https://www.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships/dp/189200528X) by Marshall B. Rosenberg PhD  
 
 #### Public Speaking
 
@@ -106,3 +108,8 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 #### Testing
 
 [Test Driven Development](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530) by Kent Beck  
+
+#### DevOps
+
+[DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002) by Gene Kim, Patrick Debois, John Willis and Jez Humble  
+[The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO) by Gene Kim, Kevin Behr and George Spafford  
