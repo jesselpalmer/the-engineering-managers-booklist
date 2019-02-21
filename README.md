@@ -3,6 +3,9 @@
 
 Books for people who are or aspire to manage/lead team(s) of software engineers. Pull requests are welcome.
 
+[![Tweet booklist](https://img.shields.io/badge/feedback-@jesselpalmer-blue.svg)](https://twitter.com/home?status=The%20Engineering%20Manager%27s%20Booklist%20%40jesselpalmer%20https%3A%2F%2Fgithub.com%2Fjesselpalmer%2Fthe-engineering-managers-booklist)   
+[![Feedback](https://img.shields.io/badge/feedback-@jesselpalmer-blue.svg)](https://twitter.com/jesselpalmer)   
+
 ## Table of Contents
 
 ### Part I: [Soft Skills](#soft-skills)
