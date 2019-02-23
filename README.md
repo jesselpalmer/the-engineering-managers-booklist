@@ -10,6 +10,30 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 This booklist is for any one who is currently or aspires to be a engineering leader. This includes Team Leads, Managers, Directors,
 and VPs of Engineering.
 
+## Table of Contents
+
+### Part I: [Soft Skills](#soft-skills)
+
+---
+
+1. [Management](#management)
+1. [Leadership](#leadership)
+1. [People](#people)
+1. [Culture](#culture)
+1. [Change Management](#change-management)
+1. [Agile Methodologies](#agile-methodologies)
+1. [Communication](#communication)
+1. [Public Speaking](#public-speaking)
+
+### Part II: [Tech Skills](#tech-skills)
+
+---
+
+1. [Software Engineering](#software-engineering)  
+1. [Continuous Delivery / Continuous Integration](#continuous-delivery--continuous-integration)  
+1. [Testing](#testing)
+1. [DevOps](#DevOps)
+
 ## Books
 
 ### Soft Skills
