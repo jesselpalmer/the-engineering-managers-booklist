@@ -1,7 +1,7 @@
 
 # The Engineering Manager's Booklist
 
-[![Tweet booklist](https://img.shields.io/badge/twitter-tweet-blue.svg)](https://twitter.com/home?status=The%20Engineering%20Manager%27s%20Booklist%20%40jesselpalmer%20https%3A%2F%2Fgithub.com%2Fjesselpalmer%2Fthe-engineering-managers-booklist) [![Follow me on Twitter](https://img.shields.io/badge/feedback-@jesselpalmer-blue.svg)](https://twitter.com/jesselpalmer) ![Newsletter Sign Up](https://img.shields.io/badge/newsletter-On%20Engineering%20Leadership-blue.svg)
+[![Tweet booklist](https://img.shields.io/badge/twitter-tweet-blue.svg)](https://twitter.com/home?status=The%20Engineering%20Manager%27s%20Booklist%20%40jesselpalmer%20https%3A%2F%2Fgithub.com%2Fjesselpalmer%2Fthe-engineering-managers-booklist) [![Follow me on Twitter](https://img.shields.io/badge/Follow%20me%20on%20Twitter-%40jesselpalmer-blue.svg)](https://twitter.com/jesselpalmer) [![Newsletter Sign Up](https://img.shields.io/badge/Sign%20up%20for%20my%20Newsletter-On%20Engineering%20Leadership-blue.svg)(https://tinyletter.com/jesselpalmer)]
 
 Books for people who are or aspire to manage/lead team(s) of software engineers. Pull requests are welcome.
 
