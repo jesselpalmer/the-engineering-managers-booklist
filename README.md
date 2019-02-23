@@ -1,33 +1,14 @@
 
 # The Engineering Manager's Booklist
 
-[![Tweet booklist](https://img.shields.io/badge/twitter-tweet-blue.svg)](https://twitter.com/home?status=The%20Engineering%20Manager%27s%20Booklist%20%40jesselpalmer%20https%3A%2F%2Fgithub.com%2Fjesselpalmer%2Fthe-engineering-managers-booklist) [![Follow me on Twitter](https://img.shields.io/badge/Follow%20me%20on%20Twitter-%40jesselpalmer-blue.svg)](https://twitter.com/jesselpalmer) [![Newsletter Sign Up](https://img.shields.io/badge/Sign%20up%20for%20my%20Newsletter-On%20Engineering%20Leadership-blue.svg)(https://tinyletter.com/jesselpalmer)]
+[![Tweet booklist](https://img.shields.io/badge/Tweet%20Booklist-tweet-blue.svg)](https://twitter.com/home?status=The%20Engineering%20Manager%27s%20Booklist%20%40jesselpalmer%20https%3A%2F%2Fgithub.com%2Fjesselpalmer%2Fthe-engineering-managers-booklist) [![Follow me on Twitter](https://img.shields.io/badge/Follow%20me%20on%20Twitter-%40jesselpalmer-blue.svg)](https://twitter.com/jesselpalmer) [![Newsletter Sign Up](https://img.shields.io/badge/Sign%20up%20for%20my%20Newsletter-On%20Engineering%20Leadership-blue.svg)](https://tinyletter.com/jesselpalmer)
 
-Books for people who are or aspire to manage/lead team(s) of software engineers. Pull requests are welcome.
+Books for people who are or aspire to manage/lead team(s) of software engineers. Pull requests are welcome.  
 
-#### Who this is for
+**Who this is for**  
+
 This booklist is for any one who is currently or aspires to be a engineering leader. This includes Team Leads, Managers, Directors,
 and VPs of Engineering.
-
-## Table of Contents
-
-### Part I: [Soft Skills](#soft-skills)
----
-1. [Management](#management)  
-1. [Leadership](#leadership)     
-1. [People](#people)   
-1. [Culture](#culture)   
-1. [Change Management](#change-management)    
-1. [Agile Methodologies](#agile-methodologies)    
-1. [Communication](#communication)   
-1. [Public Speaking](#public-speaking)     
-
-### Part II: [Tech Skills](#tech-skills)
----
-1. [Software Engineering](#software-engineering)  
-1. [Continuous Delivery / Continuous Integration](#continuous-delivery--continuous-integration)  
-1. [Testing](#testing)   
-1. [DevOps](#DevOps)
 
 ## Books
 
@@ -90,6 +71,7 @@ and VPs of Engineering.
 [Agile Retrospectives: Making Good Teams Great](https://www.amazon.com/dp/B00B03SRJW/) by Esther Derby, Diana Larsen, and Ken Schwaber  
 
 #### Communication
+
 [Nonviolent Communication: A Language of Life](https://www.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships/dp/189200528X) by Marshall B. Rosenberg PhD  
 
 #### Public Speaking
@@ -122,4 +104,4 @@ and VPs of Engineering.
 
 ## About Me
 
-Hello, thanks for reading down this far! A little about me, I have been an engineering manager at Fortune 100 companies and startups. This list represents the books that I have found valuable in my career. 
+Hello, thanks for reading down this far! A little about me, I have been an engineering manager at Fortune 100 companies and startups. This list represents the books that I have found valuable in my career.
