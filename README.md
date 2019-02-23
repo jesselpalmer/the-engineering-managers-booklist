@@ -34,7 +34,7 @@ and VPs of Engineering.
 1. [Testing](#testing)
 1. [DevOps](#DevOps)
 
-## Books
+## 📚Books
 
 ### Soft Skills
 
@@ -126,6 +126,6 @@ and VPs of Engineering.
 [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002) by Gene Kim, Patrick Debois, John Willis and Jez Humble  
 [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO) by Gene Kim, Kevin Behr and George Spafford  
 
-## About Me
+## 👨🏾‍💻 About Me
 
 Hello, thanks for reading down this far! A little about me, I have been an engineering manager at Fortune 100 companies and startups. This list represents the books that I have found valuable in my career.
