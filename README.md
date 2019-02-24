@@ -125,6 +125,6 @@ and VPs of Engineering.
 
 ## 👨🏾‍💻 About Me
 
-Hello, thanks for reading down this far! A little about me, I have been an engineering manager at Fortune 100 companies and startups. This list represents the books that I have found valuable in my career. Use the below buttons if you want to hear from me!
+Hello, thanks for reading down this far! A little about me, I have been an engineering manager at Fortune 100 companies and startups. This list represents the books that I have found valuable in my career. Use the below buttons if you want to hear about my ramblings on engineering leadership.
 
  [![Follow me on Twitter](https://img.shields.io/badge/Follow%20me%20on%20Twitter-%40jesselpalmer-blue.svg)](https://twitter.com/jesselpalmer) [![Newsletter Sign Up](https://img.shields.io/badge/Sign%20up%20for%20my%20Newsletter-On%20Engineering%20Leadership-blue.svg)](https://tinyletter.com/jesselpalmer)
