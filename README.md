@@ -3,7 +3,9 @@
 
 Books for people who are or aspire to manage/lead team(s) of software engineers. This includes Team Leads, Tech Leads, Managers, Directors, and VPs of Engineering. Pull requests are welcome.
 
-## Table of Contents
+## 📚Books
+
+### Table of Contents
 
 ### Part I: [Soft Skills](#soft-skills)
 
@@ -26,8 +28,6 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 1. [Continuous Delivery / Continuous Integration](#continuous-delivery--continuous-integration)  
 1. [Testing](#testing)
 1. [DevOps](#DevOps)
-
-## 📚Books
 
 ### Soft Skills
 
