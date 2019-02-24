@@ -1,7 +1,5 @@
 
-# The Engineering Manager's Booklist
-
-[![Tweet booklist](https://img.shields.io/badge/Tweet%20Booklist-tweet-blue.svg)](https://twitter.com/home?status=The%20Engineering%20Manager%27s%20Booklist%20%40jesselpalmer%20https%3A%2F%2Fgithub.com%2Fjesselpalmer%2Fthe-engineering-managers-booklist) [![Follow me on Twitter](https://img.shields.io/badge/Follow%20me%20on%20Twitter-%40jesselpalmer-blue.svg)](https://twitter.com/jesselpalmer) [![Newsletter Sign Up](https://img.shields.io/badge/Sign%20up%20for%20my%20Newsletter-On%20Engineering%20Leadership-blue.svg)](https://tinyletter.com/jesselpalmer)
+# The Engineering Manager's Booklist &nbsp; [![Tweet booklist](https://img.shields.io/twitter/url/:protocol(https|http)/:hostAndPath.svg?style=social)](https://twitter.com/home?status=The%20Engineering%20Manager%27s%20Booklist%20%40jesselpalmer%20https%3A%2F%2Fgithub.com%2Fjesselpalmer%2Fthe-engineering-managers-booklist)
 
 Books for people who are or aspire to manage/lead team(s) of software engineers. Pull requests are welcome.  
 
@@ -127,4 +125,6 @@ and VPs of Engineering.
 
 ## 👨🏾‍💻 About Me
 
-Hello, thanks for reading down this far! A little about me, I have been an engineering manager at Fortune 100 companies and startups. This list represents the books that I have found valuable in my career.
+Hello, thanks for reading down this far! A little about me, I have been an engineering manager at Fortune 100 companies and startups. This list represents the books that I have found valuable in my career. Use the below buttons if you want to hear from me!
+
+ [![Follow me on Twitter](https://img.shields.io/badge/Follow%20me%20on%20Twitter-%40jesselpalmer-blue.svg)](https://twitter.com/jesselpalmer) [![Newsletter Sign Up](https://img.shields.io/badge/Sign%20up%20for%20my%20Newsletter-On%20Engineering%20Leadership-blue.svg)](https://tinyletter.com/jesselpalmer)
