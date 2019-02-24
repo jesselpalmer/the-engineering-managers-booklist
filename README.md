@@ -6,7 +6,6 @@
 Books for people who are or aspire to manage/lead team(s) of software engineers. Pull requests are welcome.  
 
 **Who this is for**  
-
 This booklist is for any one who is currently or aspires to be a engineering leader. This includes Team Leads, Managers, Directors,
 and VPs of Engineering.
 
@@ -40,8 +39,8 @@ and VPs of Engineering.
 
 #### Management
 
-[Building Great Software Engineering Teams](https://www.amazon.com/Building-Great-Software-Engineering-Teams/dp/1484211340) by Joshua Tyler   
-[The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/dp/B06XP3GJ7F/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Camille Fournier   
+[Building Great Software Engineering Teams](https://www.amazon.com/Building-Great-Software-Engineering-Teams/dp/1484211340) by Joshua Tyler  
+[The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/dp/B06XP3GJ7F/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Camille Fournier  
 [Death by Meeting](https://www.amazon.com/Death-Meeting-Leadership-Solving-Business/dp/0787968056) by Patrick M. Lencioni  
 [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884) by Andrew S. Grove  
 [Managing Humans](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575) by Michael Lopp  
