@@ -3,6 +3,8 @@
 
 Books for people who are or aspire to manage/lead team(s) of software engineers. This includes, but isn't limited to, Team Leads, Tech Leads, Managers, Directors, VPs of Engineering and CTOs. Pull requests are welcome.
 
+*Disclaimer*: I use affilate links to help support the site.
+
 ## 📚Books
 
 ### Table of Contents
@@ -33,11 +35,11 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 
 #### Management
 
-[Building Great Software Engineering Teams](https://www.amazon.com/Building-Great-Software-Engineering-Teams/dp/1484211340) by Joshua Tyler  
-[The Manager's Path](https://www.amazon.com/dp/B06XP3GJ7F/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by Camille Fournier  
-[Death by Meeting](https://www.amazon.com/Death-Meeting-Leadership-Solving-Business/dp/0787968056) by Patrick M. Lencioni  
-[High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884) by Andrew S. Grove  
-[Managing Humans](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575) by Michael Lopp  
+[Building Great Software Engineering Teams](https://amzn.to/2ExjxDi) by Joshua Tyler  
+[The Manager's Path](https://amzn.to/2XmUJW2) by Camille Fournier  
+[Death by Meeting](https://amzn.to/2Exzfyq) by Patrick M. Lencioni  
+[High Output Management](https://amzn.to/2tGnM9m) by Andrew S. Grove  
+[Managing Humans](https://amzn.to/2BRGJdK) by Michael Lopp  
 [Managing Oneself](https://www.amazon.com/Managing-Oneself-Harvard-Business-Classics/dp/142212312X) by Peter Drucker  
 [The ONE Thing](https://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results/dp/1885167776) by Gary Keller and Jay Papasan  
 [Radical Focus](https://www.amazon.com/Radical-Focus-Achieving-Important-Objectives/dp/0996006028) by Christina Wodtke  
