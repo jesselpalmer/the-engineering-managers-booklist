@@ -41,15 +41,15 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 [High Output Management](https://amzn.to/2tGnM9m) by Andrew S. Grove  
 [Managing Humans](https://amzn.to/2BRGJdK) by Michael Lopp  
 [Managing Oneself](https://amzn.to/2VtSb75) by Peter Drucker  
-[The ONE Thing](https://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results/dp/1885167776) by Gary Keller and Jay Papasan  
-[Radical Focus](https://www.amazon.com/Radical-Focus-Achieving-Important-Objectives/dp/0996006028) by Christina Wodtke  
-[The Advantage](https://www.amazon.com/Advantage-Organizational-Health-Everything-Business/dp/0470941529) by Patrick Lencioni  
-[Management 3.0](https://www.amazon.com/gp/product/0321712471) by Jurgen Appelo  
-[Growing Software](https://www.amazon.com/gp/product/1593271832) by Louis Testa  
-[Principles of Software Engineering Management](https://www.amazon.com/Principles-Software-Engineering-Management-Gilb/dp/0201192462) by Tom Glib  
-[The Goal](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884270610) by Eliyahu M. Goldratt and Jeff Cox  
-[Managing the Unmanageable](https://www.amazon.com/dp/032182203X) by Mickey W. Mantle and Ron Lichty  
-[Behind Closed Doors](https://www.amazon.com/Behind-Closed-Doors-Management-Programmers/dp/0976694026) by Johanna Rothman and Esther Derby
+[The ONE Thing](https://amzn.to/2EzHIkT) by Gary Keller and Jay Papasan  
+[Radical Focus](https://amzn.to/2EiDFYC) by Christina Wodtke  
+[The Advantage](https://amzn.to/2H7MCXF) by Patrick Lencioni  
+[Management 3.0](https://amzn.to/2HaqDzH) by Jurgen Appelo  
+[Growing Software](https://amzn.to/2BVxNnQ) by Louis Testa  
+[Principles of Software Engineering Management](https://amzn.to/2tDZpJA) by Tom Glib  
+[The Goal](https://amzn.to/2T81QU9) by Eliyahu M. Goldratt and Jeff Cox  
+[Managing the Unmanageable](https://amzn.to/2tKuECF) by Mickey W. Mantle and Ron Lichty  
+[Behind Closed Doors](https://amzn.to/2VpHqCx) by Johanna Rothman and Esther Derby
 
 #### Leadership
 
