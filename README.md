@@ -40,7 +40,7 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 [Death by Meeting](https://amzn.to/2Exzfyq) by Patrick M. Lencioni  
 [High Output Management](https://amzn.to/2tGnM9m) by Andrew S. Grove  
 [Managing Humans](https://amzn.to/2BRGJdK) by Michael Lopp  
-[Managing Oneself](https://www.amazon.com/Managing-Oneself-Harvard-Business-Classics/dp/142212312X) by Peter Drucker  
+[Managing Oneself](https://amzn.to/2VtSb75) by Peter Drucker  
 [The ONE Thing](https://www.amazon.com/ONE-Thing-Surprisingly-Extraordinary-Results/dp/1885167776) by Gary Keller and Jay Papasan  
 [Radical Focus](https://www.amazon.com/Radical-Focus-Achieving-Important-Objectives/dp/0996006028) by Christina Wodtke  
 [The Advantage](https://www.amazon.com/Advantage-Organizational-Health-Everything-Business/dp/0470941529) by Patrick Lencioni  
