@@ -61,7 +61,7 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 
 #### People
 
-[Peopleware](https://www.amazon.com/Peopleware-Productive-Projects-Teams-3rd/dp/0321934113/ref=dp_ob_title_bk) by Tom DeMarco and Tim Lister  
+[Peopleware](https://amzn.to/2tHmz1Q) by Tom DeMarco and Tim Lister  
 [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/) by Frederick P. Brooks Jr.  
 [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034) by Dale Carnegie  
 
