@@ -62,16 +62,16 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 #### People
 
 [Peopleware](https://amzn.to/2tHmz1Q) by Tom DeMarco and Tim Lister  
-[The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/) by Frederick P. Brooks Jr.  
-[How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034) by Dale Carnegie  
+[The Mythical Man-Month](https://amzn.to/2C00XlT) by Frederick P. Brooks Jr.  
+[How to Win Friends and Influence People](https://amzn.to/2EsNV0J) by Dale Carnegie  
 
 #### Culture
 
-[It Doesn't Have to Be Crazy at Work](https://www.amazon.com/gp/product/0062874780/ref=dbs_a_def_rwt_bibl_vppi_i0) by Jason Fried and David Heinemeier Hansson  
-[The Hard Thing About Hard Things](https://www.amazon.com/dp/B00DQ845EA) by Ben Horowitz  
-[Good to Great](https://www.amazon.com/Good-Great-Some-Companies-Others-ebook/dp/B0058DRUV6) by Jim Collins  
-[How Google Works](https://www.amazon.com/How-Google-Works/dp/B00MOZPSYW) by Eric Schmidt, Jonathan Rosenberg and Alan Eagle  
-[Rework](https://www.amazon.com/Rework-Jason-Fried-ebook/dp/B002MUAJ2A) by Jason Fried and David Heinemeier Hansson  
+[It Doesn't Have to Be Crazy at Work](https://amzn.to/2EnPNI4) by Jason Fried and David Heinemeier Hansson  
+[The Hard Thing About Hard Things](https://amzn.to/2Es7p5m) by Ben Horowitz  
+[Good to Great](https://amzn.to/2Xu9WER) by Jim Collins  
+[How Google Works](https://amzn.to/2GU9sTo) by Eric Schmidt, Jonathan Rosenberg and Alan Eagle  
+[Rework](https://amzn.to/2TaCpRx) by Jason Fried and David Heinemeier Hansson  
 [Optimizing For Happiness](https://speakerdeck.com/mojombo/optimizing-for-happiness) by Tom Preston-Werner  
 [Slack](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698) by Tom DeMarco  
 [The Five Dysfunctions of a Team](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756) by Patrick Lencioni  
