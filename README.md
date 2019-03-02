@@ -72,15 +72,15 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 [Good to Great](https://amzn.to/2Xu9WER) by Jim Collins  
 [How Google Works](https://amzn.to/2GU9sTo) by Eric Schmidt, Jonathan Rosenberg and Alan Eagle  
 [Rework](https://amzn.to/2TaCpRx) by Jason Fried and David Heinemeier Hansson  
-[Slack](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698) by Tom DeMarco  
-[The Five Dysfunctions of a Team](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756) by Patrick Lencioni  
-[Brotopia](https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley/dp/0735213534) by Emily Chang  
+[Slack](https://amzn.to/2Xw0twR) by Tom DeMarco  
+[The Five Dysfunctions of a Team](https://amzn.to/2NBtlPK) by Patrick Lencioni  
+[Brotopia](https://amzn.to/2SDVmai) by Emily Chang  
 
 #### Change Management
 
-[Change or Die](https://www.amazon.com/Change-Die-Three-Keys-Work/dp/B000MV8X3I/) by Alan Deutschman  
-[Switch](https://www.amazon.com/Switch-Change-Things-When-Hard/dp/B0038NLX9S/) by Dan Heath, Chip Heath, Charles Kahlenberg  
-[HBR's 10 Must Reads on Change Management](https://www.amazon.com/Change-Management-including-featured-Leading/dp/1422158004) by John P. Kotter, W. Chan Kim, Renée A. Mauborgne  
+[Change or Die](https://amzn.to/2NBgTPR) by Alan Deutschman  
+[Switch](https://amzn.to/2GV3rFZ) by Dan Heath, Chip Heath, Charles Kahlenberg  
+[HBR's 10 Must Reads on Change Management](https://amzn.to/2NBBu6S) by John P. Kotter, W. Chan Kim, Renée A. Mauborgne  
 
 #### Agile Methodologies
 
