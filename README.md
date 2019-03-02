@@ -72,7 +72,6 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 [Good to Great](https://amzn.to/2Xu9WER) by Jim Collins  
 [How Google Works](https://amzn.to/2GU9sTo) by Eric Schmidt, Jonathan Rosenberg and Alan Eagle  
 [Rework](https://amzn.to/2TaCpRx) by Jason Fried and David Heinemeier Hansson  
-[Optimizing For Happiness](https://speakerdeck.com/mojombo/optimizing-for-happiness) by Tom Preston-Werner  
 [Slack](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698) by Tom DeMarco  
 [The Five Dysfunctions of a Team](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756) by Patrick Lencioni  
 [Brotopia](https://www.amazon.com/Brotopia-Breaking-Boys-Silicon-Valley/dp/0735213534) by Emily Chang  
