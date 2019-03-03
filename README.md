@@ -90,18 +90,18 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 
 #### Communication
 
-[Nonviolent Communication](https://www.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships/dp/189200528X) by Marshall B. Rosenberg PhD  
+[Nonviolent Communication](https://amzn.to/2ErH47y) by Marshall B. Rosenberg PhD  
 
 #### Public Speaking
 
-[Demystifying Public Speaking](https://alistapart.com/article/demystifying-public-speaking) by Lara Hogan  
+[Demystifying Public Speaking](https://amzn.to/2XAmbzV) by Lara Hogan  
 
 ### Tech Skills
 
 #### Software Engineering
 
-[The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) by Andrew Hunt and David Thomas  
-[The Effective Engineer](https://www.theeffectiveengineer.com/book) by Edmond Lau  
+[The Pragmatic Programmer](https://amzn.to/2tNfTz5) by Andrew Hunt and David Thomas  
+[The Effective Engineer](https://amzn.to/2ExGNjo) by Edmond Lau  
 [Rapid Development](https://www.amazon.com/Rapid-Development-Taming-Software-Schedules/dp/1556159005) by Steve McConnell  
 [Software Estimation](https://www.amazon.com/Software-Estimation-Demystifying-Developer-Practices/dp/0735605351) by Steve McConnell  
 [Software Project Survival Guide](https://www.amazon.com/dp/1572316217) by Steve McConnell  
