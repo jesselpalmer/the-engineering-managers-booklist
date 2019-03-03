@@ -102,7 +102,7 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 
 [The Pragmatic Programmer](https://amzn.to/2tNfTz5) by Andrew Hunt and David Thomas  
 [The Effective Engineer](https://amzn.to/2ExGNjo) by Edmond Lau  
-[Rapid Development](https://www.amazon.com/Rapid-Development-Taming-Software-Schedules/dp/1556159005) by Steve McConnell  
+[Rapid Development](https://amzn.to/2GXwity) by Steve McConnell  
 [Software Estimation](https://www.amazon.com/Software-Estimation-Demystifying-Developer-Practices/dp/0735605351) by Steve McConnell  
 [Software Project Survival Guide](https://www.amazon.com/dp/1572316217) by Steve McConnell  
 
