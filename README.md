@@ -103,22 +103,22 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 [The Pragmatic Programmer](https://amzn.to/2tNfTz5) by Andrew Hunt and David Thomas  
 [The Effective Engineer](https://amzn.to/2ExGNjo) by Edmond Lau  
 [Rapid Development](https://amzn.to/2GXwity) by Steve McConnell  
-[Software Estimation](https://www.amazon.com/Software-Estimation-Demystifying-Developer-Practices/dp/0735605351) by Steve McConnell  
-[Software Project Survival Guide](https://www.amazon.com/dp/1572316217) by Steve McConnell  
+[Software Estimation](https://amzn.to/2HcWjEm) by Steve McConnell  
+[Software Project Survival Guide](https://amzn.to/2EHMBZd) by Steve McConnell  
 
 #### Continuous Delivery / Continuous Integration
 
-[Continuous Delivery](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912) by Jez Humble and David Farley  
-[Continuous Integration](https://www.amazon.com/gp/product/0321336380) by Paul M. Duvall, Steve Matyas, and Andrew Glover  
+[Continuous Delivery](https://amzn.to/2TdNm4P) by Jez Humble and David Farley  
+[Continuous Integration](https://amzn.to/2Vvg6mo) by Paul M. Duvall, Steve Matyas, and Andrew Glover  
 
 #### Testing
 
-[Test Driven Development](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530) by Kent Beck  
+[Test Driven Development](https://amzn.to/2Eyr83E) by Kent Beck  
 
 #### DevOps
 
-[DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/dp/1942788002) by Gene Kim, Patrick Debois, John Willis and Jez Humble  
-[The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO) by Gene Kim, Kevin Behr and George Spafford  
+[DevOps Handbook](https://amzn.to/2tOw7bq) by Gene Kim, Patrick Debois, John Willis and Jez Humble  
+[The Phoenix Project](https://amzn.to/2EvzUiD) by Gene Kim, Kevin Behr and George Spafford  
 
 ## 👨🏾‍💻 About Me
 
