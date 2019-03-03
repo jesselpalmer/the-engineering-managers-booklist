@@ -84,9 +84,9 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 
 #### Agile Methodologies
 
-[Scrum](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X) by Jeff Sutherland and JJ Sutherland  
-[Essential Scrum](https://www.amazon.com/Essential-Scrum-Practical-Addison-Wesley-Signature/dp/0137043295) by Kenneth S. Rubin  
-[Agile Retrospectives](https://www.amazon.com/dp/B00B03SRJW/) by Esther Derby, Diana Larsen, and Ken Schwaber  
+[Scrum](https://amzn.to/2IXg2uu) by Jeff Sutherland and JJ Sutherland  
+[Essential Scrum](https://amzn.to/2Ugg41t) by Kenneth S. Rubin  
+[Agile Retrospectives](https://amzn.to/2XsnwbQ) by Esther Derby, Diana Larsen, and Ken Schwaber  
 
 #### Communication
 
