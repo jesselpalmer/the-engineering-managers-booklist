@@ -105,6 +105,7 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 [Rapid Development](https://amzn.to/2GXwity) by Steve McConnell  
 [Software Estimation](https://amzn.to/2HcWjEm) by Steve McConnell  
 [Software Project Survival Guide](https://amzn.to/2EHMBZd) by Steve McConnell  
+[Code Complete](https://amzn.to/2UmpOr6) by Steve McConnell  
 
 #### Continuous Delivery / Continuous Integration
 
