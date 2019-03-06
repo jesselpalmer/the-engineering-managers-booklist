@@ -91,6 +91,7 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 #### Communication
 
 [Nonviolent Communication](https://amzn.to/2ErH47y) by Marshall B. Rosenberg PhD  
+[Presence](https://amzn.to/2EAT5aV) by Amy Cutty
 
 #### Public Speaking
 
