@@ -110,17 +110,17 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 
 #### Continuous Delivery / Continuous Integration
 
-[Continuous Delivery](https://amzn.to/2TdNm4P) by Jez Humble and David Farley  
-[Continuous Integration](https://amzn.to/2Vvg6mo) by Paul M. Duvall, Steve Matyas, and Andrew Glover  
+[Continuous Delivery](https://amzn.to/2TdNm4P) by Jez Humble and David Farley [📘](https://amzn.to/2TdNm4P)  
+[Continuous Integration](https://amzn.to/2Vvg6mo) by Paul M. Duvall, Steve Matyas, and Andrew Glover [📘](https://amzn.to/2Vvg6mo)  
 
 #### Testing
 
-[Test Driven Development](https://amzn.to/2Eyr83E) by Kent Beck  
+[Test Driven Development](https://amzn.to/2Eyr83E) by Kent Beck [📘](https://amzn.to/2Eyr83E)  
 
 #### DevOps
 
-[DevOps Handbook](https://amzn.to/2tOw7bq) by Gene Kim, Patrick Debois, John Willis and Jez Humble  
-[The Phoenix Project](https://amzn.to/2EvzUiD) by Gene Kim, Kevin Behr and George Spafford  
+[DevOps Handbook](https://amzn.to/2tOw7bq) by Gene Kim, Patrick Debois, John Willis and Jez Humble [📘](https://amzn.to/2tOw7bq) [🎧](https://amzn.to/2NNBnVE)  
+[The Phoenix Project](https://amzn.to/2EvzUiD) by Gene Kim, Kevin Behr and George Spafford [📘](https://amzn.to/2EvzUiD) [🎧](https://amzn.to/2VGaSUU)  
 
 ## 👨🏾‍💻 About Me
 
