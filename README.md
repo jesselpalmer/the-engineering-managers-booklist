@@ -78,19 +78,19 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 
 #### Change Management
 
-[Change or Die](https://amzn.to/2NBgTPR) by Alan Deutschman  
-[Switch](https://amzn.to/2GV3rFZ) by Dan Heath, Chip Heath, Charles Kahlenberg  
+[Change or Die](https://amzn.to/2NBgTPR) by Alan Deutschman [📘](https://amzn.to/2NBgTPR) [🎧](https://amzn.to/2Hgn7ne)  
+[Switch](https://amzn.to/2GV3rFZ) by Dan Heath, Chip Heath, Charles Kahlenberg [📘](https://amzn.to/2GV3rFZ) [🎧](https://amzn.to/2Tk8I0I)  
 [HBR's 10 Must Reads on Change Management](https://amzn.to/2NBBu6S) by John P. Kotter, W. Chan Kim, Renée A. Mauborgne  
 
 #### Agile Methodologies
 
-[Scrum](https://amzn.to/2IXg2uu) by Jeff Sutherland and JJ Sutherland  
+[Scrum](https://amzn.to/2IXg2uu) by Jeff Sutherland and JJ Sutherland [📘](https://amzn.to/2IXg2uu) [🎧](https://amzn.to/2SOhpuO)  
 [Essential Scrum](https://amzn.to/2Ugg41t) by Kenneth S. Rubin  
 [Agile Retrospectives](https://amzn.to/2XsnwbQ) by Esther Derby, Diana Larsen, and Ken Schwaber  
 
 #### Communication
 
-[Nonviolent Communication](https://amzn.to/2ErH47y) by Marshall B. Rosenberg PhD  
+[Nonviolent Communication](https://amzn.to/2ErH47y) by Marshall B. Rosenberg PhD [📘](https://amzn.to/2ErH47y) [🎧](https://amzn.to/2IYp2PP)  
 [Presence](https://amzn.to/2EAT5aV) by Amy Cutty [📘](https://amzn.to/2EAT5aV) [🎧](https://amzn.to/2ES4Kn0)  
 
 #### Public Speaking
