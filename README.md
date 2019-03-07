@@ -80,13 +80,13 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 
 [Change or Die](https://amzn.to/2NBgTPR) by Alan Deutschman [📘](https://amzn.to/2NBgTPR) [🎧](https://amzn.to/2Hgn7ne)  
 [Switch](https://amzn.to/2GV3rFZ) by Dan Heath, Chip Heath, Charles Kahlenberg [📘](https://amzn.to/2GV3rFZ) [🎧](https://amzn.to/2Tk8I0I)  
-[HBR's 10 Must Reads on Change Management](https://amzn.to/2NBBu6S) by John P. Kotter, W. Chan Kim, Renée A. Mauborgne  
+[HBR's 10 Must Reads on Change Management](https://amzn.to/2NBBu6S) by John P. Kotter, W. Chan Kim, Renée A. Mauborgne [📘](https://amzn.to/2NBBu6S)  
 
 #### Agile Methodologies
 
 [Scrum](https://amzn.to/2IXg2uu) by Jeff Sutherland and JJ Sutherland [📘](https://amzn.to/2IXg2uu) [🎧](https://amzn.to/2SOhpuO)  
-[Essential Scrum](https://amzn.to/2Ugg41t) by Kenneth S. Rubin  
-[Agile Retrospectives](https://amzn.to/2XsnwbQ) by Esther Derby, Diana Larsen, and Ken Schwaber  
+[Essential Scrum](https://amzn.to/2Ugg41t) by Kenneth S. Rubin [📘](https://amzn.to/2Ugg41t)  
+[Agile Retrospectives](https://amzn.to/2XsnwbQ) by Esther Derby, Diana Larsen, and Ken Schwaber [📘](https://amzn.to/2XsnwbQ)  
 
 #### Communication
 
@@ -95,18 +95,18 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 
 #### Public Speaking
 
-[Demystifying Public Speaking](https://amzn.to/2XAmbzV) by Lara Hogan  
+[Demystifying Public Speaking](https://amzn.to/2XAmbzV) by Lara Hogan [📘](https://amzn.to/2XAmbzV)  
 
 ### Tech Skills
 
 #### Software Engineering
 
-[The Pragmatic Programmer](https://amzn.to/2tNfTz5) by Andrew Hunt and David Thomas  
-[The Effective Engineer](https://amzn.to/2ExGNjo) by Edmond Lau  
-[Rapid Development](https://amzn.to/2GXwity) by Steve McConnell  
-[Software Estimation](https://amzn.to/2HcWjEm) by Steve McConnell  
-[Software Project Survival Guide](https://amzn.to/2EHMBZd) by Steve McConnell  
-[Code Complete](https://amzn.to/2UmpOr6) by Steve McConnell  
+[The Pragmatic Programmer](https://amzn.to/2tNfTz5) by Andrew Hunt and David Thomas [📘](https://amzn.to/2tNfTz5)  
+[The Effective Engineer](https://amzn.to/2ExGNjo) by Edmond Lau [📘](https://amzn.to/2ExGNjo)  
+[Rapid Development](https://amzn.to/2GXwity) by Steve McConnell [📘](https://amzn.to/2GXwity)  
+[Software Estimation](https://amzn.to/2HcWjEm) by Steve McConnell [📘](https://amzn.to/2HcWjEm)  
+[Software Project Survival Guide](https://amzn.to/2EHMBZd) by Steve McConnell [📘](https://amzn.to/2EHMBZd)  
+[Code Complete](https://amzn.to/2UmpOr6) by Steve McConnell [📘](https://amzn.to/2UmpOr6)  
 
 #### Continuous Delivery / Continuous Integration
 
