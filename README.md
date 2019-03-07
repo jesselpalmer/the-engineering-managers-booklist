@@ -67,14 +67,14 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 
 #### Culture
 
-[It Doesn't Have to Be Crazy at Work](https://amzn.to/2EnPNI4) by Jason Fried and David Heinemeier Hansson  
-[The Hard Thing About Hard Things](https://amzn.to/2Es7p5m) by Ben Horowitz  
-[Good to Great](https://amzn.to/2Xu9WER) by Jim Collins  
-[How Google Works](https://amzn.to/2GU9sTo) by Eric Schmidt, Jonathan Rosenberg and Alan Eagle  
-[Rework](https://amzn.to/2TaCpRx) by Jason Fried and David Heinemeier Hansson  
-[Slack](https://amzn.to/2Xw0twR) by Tom DeMarco  
-[The Five Dysfunctions of a Team](https://amzn.to/2NBtlPK) by Patrick Lencioni  
-[Brotopia](https://amzn.to/2SDVmai) by Emily Chang  
+[It Doesn't Have to Be Crazy at Work](https://amzn.to/2EnPNI4) by Jason Fried and David Heinemeier Hansson [📘](https://amzn.to/2EnPNI4)  
+[The Hard Thing About Hard Things](https://amzn.to/2Es7p5m) by Ben Horowitz [📘](https://amzn.to/2Es7p5m)  
+[Good to Great](https://amzn.to/2Xu9WER) by Jim Collins [📘](https://amzn.to/2Xu9WER)  
+[How Google Works](https://amzn.to/2GU9sTo) by Eric Schmidt, Jonathan Rosenberg and Alan Eagle [📘](https://amzn.to/2GU9sTo)  
+[Rework](https://amzn.to/2TaCpRx) by Jason Fried and David Heinemeier Hansson [📘](https://amzn.to/2TaCpRx)  
+[Slack](https://amzn.to/2Xw0twR) by Tom DeMarco [📘](https://amzn.to/2Xw0twR)  
+[The Five Dysfunctions of a Team](https://amzn.to/2NBtlPK) by Patrick Lencioni [📘](https://amzn.to/2NBtlPK)  
+[Brotopia](https://amzn.to/2SDVmai) by Emily Chang [📘](https://amzn.to/2SDVmai)  
 
 #### Change Management
 
