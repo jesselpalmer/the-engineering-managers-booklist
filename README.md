@@ -63,7 +63,7 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 
 [Peopleware](https://amzn.to/2tHmz1Q) by Tom DeMarco and Tim Lister [📘](https://amzn.to/2tHmz1Q)  
 [The Mythical Man-Month](https://amzn.to/2C00XlT) by Frederick P. Brooks Jr. [📘](https://amzn.to/2C00XlT)  
-[How to Win Friends and Influence People](https://amzn.to/2EsNV0J) by Dale Carnegie [📘](https://amzn.to/2EsNV0J)  
+[How to Win Friends and Influence People](https://amzn.to/2EsNV0J) by Dale Carnegie [📘](https://amzn.to/2EsNV0J) [🎧] (https://amzn.to/2HxnVVX)
 
 #### Culture
 
