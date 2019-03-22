@@ -70,7 +70,7 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 [It Doesn't Have to Be Crazy at Work](https://amzn.to/2EnPNI4) by Jason Fried and David Heinemeier Hansson [📘](https://amzn.to/2EnPNI4)  
 [The Hard Thing About Hard Things](https://amzn.to/2Es7p5m) by Ben Horowitz [📘](https://amzn.to/2Es7p5m)  
 [Good to Great](https://amzn.to/2Xu9WER) by Jim Collins [📘](https://amzn.to/2Xu9WER)  
-[How Google Works](https://amzn.to/2GU9sTo) by Eric Schmidt, Jonathan Rosenberg and Alan Eagle [📘](https://amzn.to/2GU9sTo)  
+[How Google Works](https://amzn.to/2GU9sTo) by Eric Schmidt, Jonathan Rosenberg and Alan Eagle [📘](https://amzn.to/2GU9sTo) [🎧](https://amzn.to/2Tojazq)  
 [Rework](https://amzn.to/2TaCpRx) by Jason Fried and David Heinemeier Hansson [📘](https://amzn.to/2TaCpRx)  
 [Slack](https://amzn.to/2Xw0twR) by Tom DeMarco [📘](https://amzn.to/2Xw0twR)  
 [The Five Dysfunctions of a Team](https://amzn.to/2NBtlPK) by Patrick Lencioni [📘](https://amzn.to/2NBtlPK)  
