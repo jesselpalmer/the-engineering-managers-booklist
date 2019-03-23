@@ -37,7 +37,7 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 
 [Building Great Software Engineering Teams](https://amzn.to/2ExjxDi) by Joshua Tyler [📘](https://amzn.to/2ExjxDi)  
 [The Manager's Path](https://amzn.to/2XmUJW2) by Camille Fournier [📘](https://amzn.to/2XmUJW2)  
-[Death by Meeting](https://amzn.to/2Exzfyq) by Patrick M. Lencioni [📘](https://amzn.to/2Exzfyq) [🎧](https://amzn.to/2CAoJF4)
+[Death by Meeting](https://amzn.to/2Exzfyq) by Patrick M. Lencioni [📘](https://amzn.to/2Exzfyq) [🎧](https://amzn.to/2CAoJF4)  
 [High Output Management](https://amzn.to/2tGnM9m) by Andrew S. Grove [📘](https://amzn.to/2tGnM9m)  
 [Managing Humans](https://amzn.to/2BRGJdK) by Michael Lopp [📘](https://amzn.to/2BRGJdK)  
 [Managing Oneself](https://amzn.to/2VtSb75) by Peter Drucker [📘](https://amzn.to/2VtSb75)  
