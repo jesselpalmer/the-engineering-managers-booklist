@@ -43,7 +43,7 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 [Managing Oneself](https://amzn.to/2VtSb75) by Peter Drucker [📘](https://amzn.to/2VtSb75) [🎧](https://amzn.to/2YkpoE3)  
 [The ONE Thing](https://amzn.to/2EzHIkT) by Gary Keller and Jay Papasan [📘](https://amzn.to/2EzHIkT) [🎧](https://amzn.to/2uneSya)  
 [Radical Focus](https://amzn.to/2EiDFYC) by Christina Wodtke [📘](https://amzn.to/2EiDFYC) [🎧](https://amzn.to/2SSsVFR)  
-[The Advantage](https://amzn.to/2H7MCXF) by Patrick Lencioni [📘](https://amzn.to/2H7MCXF) [🎧](https://amzn.to/2uo4B4R)
+[The Advantage](https://amzn.to/2H7MCXF) by Patrick Lencioni [📘](https://amzn.to/2H7MCXF) [🎧](https://amzn.to/2uo4B4R)  
 [Management 3.0](https://amzn.to/2HaqDzH) by Jurgen Appelo [📘](https://amzn.to/2HaqDzH)  
 [Growing Software](https://amzn.to/2BVxNnQ) by Louis Testa [📘](https://amzn.to/2BVxNnQ)  
 [Principles of Software Engineering Management](https://amzn.to/2tDZpJA) by Tom Glib [📘](https://amzn.to/2tDZpJA)  
