@@ -33,21 +33,21 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 
 #### Management
 
-[Building Great Software Engineering Teams](https://amzn.to/2ExjxDi) by Joshua Tyler [📘](https://amzn.to/2ExjxDi)  
-[The Manager's Path](https://amzn.to/2XmUJW2) by Camille Fournier [📘](https://amzn.to/2XmUJW2)  
-[Death by Meeting](https://amzn.to/2Exzfyq) by Patrick M. Lencioni [📘](https://amzn.to/2Exzfyq) [🎧](https://amzn.to/2CAoJF4)  
-[High Output Management](https://amzn.to/2tGnM9m) by Andrew S. Grove [📘](https://amzn.to/2tGnM9m)  
-[Managing Humans](https://amzn.to/2BRGJdK) by Michael Lopp [📘](https://amzn.to/2BRGJdK)  
-[Managing Oneself](https://amzn.to/2VtSb75) by Peter Drucker [📘](https://amzn.to/2VtSb75) [🎧](https://amzn.to/2YkpoE3)  
-[The ONE Thing](https://amzn.to/2EzHIkT) by Gary Keller and Jay Papasan [📘](https://amzn.to/2EzHIkT) [🎧](https://amzn.to/2uneSya)  
-[Radical Focus](https://amzn.to/2EiDFYC) by Christina Wodtke [📘](https://amzn.to/2EiDFYC) [🎧](https://amzn.to/2SSsVFR)  
-[The Advantage](https://amzn.to/2H7MCXF) by Patrick Lencioni [📘](https://amzn.to/2H7MCXF) [🎧](https://amzn.to/2uo4B4R)  
-[Management 3.0](https://amzn.to/2HaqDzH) by Jurgen Appelo [📘](https://amzn.to/2HaqDzH)  
-[Growing Software](https://amzn.to/2BVxNnQ) by Louis Testa [📘](https://amzn.to/2BVxNnQ)  
-[Principles of Software Engineering Management](https://amzn.to/2tDZpJA) by Tom Glib [📘](https://amzn.to/2tDZpJA)  
-[The Goal](https://amzn.to/2T81QU9) by Eliyahu M. Goldratt and Jeff Cox [📘](https://amzn.to/2T81QU9) [🎧](https://amzn.to/2WnKeAO)  
-[Managing the Unmanageable](https://amzn.to/2tKuECF) by Mickey W. Mantle and Ron Lichty [📘](https://amzn.to/2tKuECF)  
-[Behind Closed Doors](https://amzn.to/2VpHqCx) by Johanna Rothman and Esther Derby [📘](https://amzn.to/2VpHqCx)  
+[Building Great Software Engineering Teams](https://amzn.to/2IDypCz) by Joshua Tyler [📘](https://amzn.to/2IDypCz)  
+[The Manager's Path](https://amzn.to/2DgqkQM) by Camille Fournier [📘](https://amzn.to/2DgqkQM)  
+[Death by Meeting](https://amzn.to/2XgIWaX) by Patrick M. Lencioni [📘](https://amzn.to/2XgIWaX) [🎧](https://amzn.to/2DfZV5S)  
+[High Output Management](https://amzn.to/2XfMSJ5) by Andrew S. Grove [📘](https://amzn.to/2XfMSJ5)  
+[Managing Humans](https://amzn.to/2IoAx1S) by Michael Lopp [📘](https://amzn.to/2IoAx1S)  
+[Managing Oneself](https://amzn.to/2XiFtZK) by Peter Drucker [📘](https://amzn.to/2XiFtZK) [🎧](https://amzn.to/2GtJa9n)  
+[The ONE Thing](https://amzn.to/2Xl0F1g) by Gary Keller and Jay Papasan [📘](https://amzn.to/2Xl0F1g) [🎧](https://amzn.to/2UYNPYU)  
+[Radical Focus](https://amzn.to/2DhZLee) by Christina Wodtke [📘](https://amzn.to/2DhZLee) [🎧](https://amzn.to/2DeYSD6)  
+[The Advantage](https://amzn.to/2DbTOiX) by Patrick Lencioni [📘](https://amzn.to/2DbTOiX) [🎧](https://amzn.to/2IojooZ)  
+[Management 3.0](https://amzn.to/2GuQXnr) by Jurgen Appelo [📘](https://amzn.to/2GuQXnr)  
+[Growing Software](https://amzn.to/2DhtyDD) by Louis Testa [📘](https://amzn.to/2DhtyDD)  
+[Principles of Software Engineering Management](https://amzn.to/2GqXj6W) by Tom Glib [📘](https://amzn.to/2GqXj6W)  
+[The Goal](https://amzn.to/2DjQthG) by Eliyahu M. Goldratt and Jeff Cox [📘](https://amzn.to/2DjQthG) [🎧](https://amzn.to/2XkdVmq)  
+[Managing the Unmanageable](https://amzn.to/2DhLBK9) by Mickey W. Mantle and Ron Lichty [📘](https://amzn.to/2DhLBK9)  
+[Behind Closed Doors](https://amzn.to/2Io85gL) by Johanna Rothman and Esther Derby [📘](https://amzn.to/2Io85gL)  
 
 #### Leadership
 
