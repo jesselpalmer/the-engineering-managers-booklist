@@ -3,8 +3,6 @@
 
 Books for people who are or aspire to manage/lead team(s) of software engineers. This includes, but isn't limited to, Team Leads, Tech Leads, Managers, Directors, VPs of Engineering and CTOs. Pull requests are welcome.
 
-*Disclaimer*: I use affilate links to help support the site.
-
 ## 📚Books
 
 ### Table of Contents
