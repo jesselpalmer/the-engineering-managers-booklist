@@ -39,7 +39,7 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 [High Output Management](https://amzn.to/2XfMSJ5) by Andrew S. Grove [📘](https://amzn.to/2XfMSJ5)  
 [Managing Humans](https://amzn.to/2IoAx1S) by Michael Lopp [📘](https://amzn.to/2IoAx1S)  
 [Managing Oneself](https://amzn.to/2XiFtZK) by Peter Drucker [📘](https://amzn.to/2XiFtZK) [🎧](https://amzn.to/2GtJa9n)  
-[The ONE Thing](https://amzn.to/2Xl0F1g) by Gary Keller and Jay Papasan [📘](https://amzn.to/2Xl0F1g) [🎧](https://amzn.to/2UYNPYU)  
+[The ONE Thing](https://amzn.to/2Xl0F1g) by Gary Keller and Jay Papasan [📘](https://amzn.to/2Xl0F1g) [🎧](https://amzn.to/2XgmJKj)  
 [Radical Focus](https://amzn.to/2DhZLee) by Christina Wodtke [📘](https://amzn.to/2DhZLee) [🎧](https://amzn.to/2DeYSD6)  
 [The Advantage](https://amzn.to/2DbTOiX) by Patrick Lencioni [📘](https://amzn.to/2DbTOiX) [🎧](https://amzn.to/2IojooZ)  
 [Management 3.0](https://amzn.to/2GuQXnr) by Jurgen Appelo [📘](https://amzn.to/2GuQXnr)  
