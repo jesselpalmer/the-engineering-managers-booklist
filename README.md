@@ -52,10 +52,14 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 #### Leadership
 
 [Leading Snowflakes](http://leadingsnowflakes.com) by Oren Ellenbogen [📘](http://leadingsnowflakes.com)  
-[The Score Takes Care of Itself](https://amzn.to/2SxnVGj) by Bill Walsh, Steve Jamison, and Craig Walsh [📘](https://amzn.to/2SxnVGj) [🎧](https://amzn.to/2YmPaYh)  
-[Leadership is an Art](https://amzn.to/2Ewby8H) from Max Depree [📘](https://amzn.to/2Ewby8H) [🎧](https://amzn.to/2YnBvQN)  
-[Radical Candor](https://amzn.to/2SyNab8) by Kim Scott [📘](https://amzn.to/2SyNab8) [🎧](https://amzn.to/2UVBm4Z)  
-[Developing the Leader Within You](https://amzn.to/2tMDRdH) by John C. Maxwell [📘](https://amzn.to/2tMDRdH) [🎧](https://amzn.to/2U8UVJT)
+[The Score Takes Care of Itself](https://amzn.to/2XmKj81) by Bill Walsh, Steve Jamison, and Craig Walsh [📘](https://amzn.to/2XmKj81) [🎧](https://amzn.to/2Zl8m9a)  
+[Leadership is an Art](https://amzn.to/2Dk3Jmm) from Max Depree [📘](https://amzn.to/2Dk3Jmm) [🎧](https://amzn.to/2GipeF0)  
+[Developing the Leader Within You](https://amzn.to/2ItqTLE) by John C. Maxwell [📘](https://amzn.to/2ItqTLE) [🎧](https://amzn.to/2U8UVJT)  
+
+#### Coaching
+
+[Radical Candor](https://amzn.to/2IrQvIM) by Kim Scott [📘](https://amzn.to/2IrQvIM) [🎧](https://amzn.to/2KJ3c3x)  
+[The Coaching Habit](https://amzn.to/2XjkohB) by Michael Bungay Stanier [📘](https://amzn.to/2XjkohB) [🎧](https://amzn.to/2IDjAA9)  
 
 #### People
 
