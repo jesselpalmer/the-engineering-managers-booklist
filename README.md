@@ -54,7 +54,7 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 [Leading Snowflakes](http://leadingsnowflakes.com) by Oren Ellenbogen [📘](http://leadingsnowflakes.com)  
 [The Score Takes Care of Itself](https://amzn.to/2XmKj81) by Bill Walsh, Steve Jamison, and Craig Walsh [📘](https://amzn.to/2XmKj81) [🎧](https://amzn.to/2Zl8m9a)  
 [Leadership is an Art](https://amzn.to/2Dk3Jmm) from Max Depree [📘](https://amzn.to/2Dk3Jmm) [🎧](https://amzn.to/2GipeF0)  
-[Developing the Leader Within You](https://amzn.to/2ItqTLE) by John C. Maxwell [📘](https://amzn.to/2ItqTLE) [🎧](https://amzn.to/2U8UVJT)  
+[Developing the Leader Within You](https://amzn.to/2ItqTLE) by John C. Maxwell [📘](https://amzn.to/2ItqTLE) [🎧](https://amzn.to/2XmNtbT)  
 
 #### Coaching
 
