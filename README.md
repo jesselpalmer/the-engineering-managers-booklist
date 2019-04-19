@@ -63,20 +63,20 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 
 #### People
 
-[Peopleware](https://amzn.to/2tHmz1Q) by Tom DeMarco and Tim Lister [📘](https://amzn.to/2tHmz1Q)  
-[The Mythical Man-Month](https://amzn.to/2C00XlT) by Frederick P. Brooks Jr. [📘](https://amzn.to/2C00XlT)  
-[How to Win Friends and Influence People](https://amzn.to/2EsNV0J) by Dale Carnegie [📘](https://amzn.to/2EsNV0J) [🎧](https://amzn.to/2HxnVVX)
+[Peopleware](https://amzn.to/2KPzrhQ) by Tom DeMarco and Tim Lister [📘](https://amzn.to/2KPzrhQ)  
+[The Mythical Man-Month](https://amzn.to/2GohQbi) by Frederick P. Brooks Jr. [📘](https://amzn.to/2GohQbi)  
+[How to Win Friends and Influence People](https://amzn.to/2GlPqP7) by Dale Carnegie [📘](https://amzn.to/2GlPqP7) [🎧](https://amzn.to/2Dxo6Np)
 
 #### Culture
 
-[It Doesn't Have to Be Crazy at Work](https://amzn.to/2EnPNI4) by Jason Fried and David Heinemeier Hansson [📘](https://amzn.to/2EnPNI4) [🎧](https://amzn.to/2OR7C6U)  
-[The Hard Thing About Hard Things](https://amzn.to/2Es7p5m) by Ben Horowitz [📘](https://amzn.to/2Es7p5m) [🎧](https://amzn.to/2I54R1e)  
-[Good to Great](https://amzn.to/2Xu9WER) by Jim Collins [📘](https://amzn.to/2I3OeTS) [🎧](https://amzn.to/2I3OeTS)  
-[How Google Works](https://amzn.to/2GU9sTo) by Eric Schmidt, Jonathan Rosenberg and Alan Eagle [📘](https://amzn.to/2GU9sTo) [🎧](https://amzn.to/2Tojazq)  
-[Rework](https://amzn.to/2TaCpRx) by Jason Fried and David Heinemeier Hansson [📘](https://amzn.to/2TaCpRx) [🎧](https://amzn.to/2OTCQdP)  
-[Slack](https://amzn.to/2Xw0twR) by Tom DeMarco [📘](https://amzn.to/2Xw0twR)  
-[The Five Dysfunctions of a Team](https://amzn.to/2NBtlPK) by Patrick Lencioni [📘](https://amzn.to/2NBtlPK) [🎧](https://amzn.to/2I10Jzm)  
-[Brotopia](https://amzn.to/2SDVmai) by Emily Chang [📘](https://amzn.to/2SDVmai) [🎧](https://amzn.to/2VvuUlq)  
+[It Doesn't Have to Be Crazy at Work](https://amzn.to/2Ut8zUa) by Jason Fried and David Heinemeier Hansson [📘](https://amzn.to/2Ut8zUa) [🎧](https://amzn.to/2Dm61BL)  
+[The Hard Thing About Hard Things](https://amzn.to/2IsNQ1d) by Ben Horowitz [📘](https://amzn.to/2IsNQ1d) [🎧](https://amzn.to/2GzNLFV)  
+[Good to Great](https://amzn.to/2IIhnDq) by Jim Collins [📘](https://amzn.to/2IIhnDq) [🎧](https://amzn.to/2GzNSRR)  
+[How Google Works](https://amzn.to/2XttuIN) by Eric Schmidt, Jonathan Rosenberg and Alan Eagle [📘](https://amzn.to/2XttuIN) [🎧](https://amzn.to/2Iul3tn)  
+[Rework](https://amzn.to/2IsNZSj) by Jason Fried and David Heinemeier Hansson [📘](https://amzn.to/2IsNZSj) [🎧](https://amzn.to/2XvMVRn)  
+[Slack](https://amzn.to/2XpZFZK) by Tom DeMarco [📘](https://amzn.to/2XpZFZK)  
+[The Five Dysfunctions of a Team](https://amzn.to/2ItqwAG) by Patrick Lencioni [📘](https://amzn.to/2ItqwAG) [🎧](https://amzn.to/2Vg23EG)  
+[Brotopia](https://amzn.to/2Ivc4rB) by Emily Chang [📘](https://amzn.to/2Ivc4rB) [🎧](https://amzn.to/2UreIAl)  
 
 #### Change Management
 
