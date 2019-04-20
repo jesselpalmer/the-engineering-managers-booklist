@@ -80,9 +80,9 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 
 #### Change Management
 
-[Change or Die](https://amzn.to/2NBgTPR) by Alan Deutschman [📘](https://amzn.to/2NBgTPR) [🎧](https://amzn.to/2Hgn7ne)  
-[Switch](https://amzn.to/2GV3rFZ) by Dan Heath, Chip Heath, Charles Kahlenberg [📘](https://amzn.to/2GV3rFZ) [🎧](https://amzn.to/2Tk8I0I)  
-[HBR's 10 Must Reads on Change Management](https://amzn.to/2NBBu6S) by John P. Kotter, W. Chan Kim, Renée A. Mauborgne [📘](https://amzn.to/2NBBu6S) [🎧](https://amzn.to/2InEymB)  
+[Change or Die](https://amzn.to/2IJ251q) by Alan Deutschman [📘](https://amzn.to/2IJ251q) [🎧](https://amzn.to/2Hgn7ne)  
+[Switch](https://amzn.to/2VcMKN3) by Dan Heath, Chip Heath, Charles Kahlenberg [📘](https://amzn.to/2VcMKN3) [🎧](https://amzn.to/2Iw6iGi)  
+[HBR's 10 Must Reads on Change Management](https://amzn.to/2KSpvnL) by John P. Kotter, W. Chan Kim, Renée A. Mauborgne [📘](https://amzn.to/2KSpvnL) [🎧](https://amzn.to/2Gw9AHi)  
 
 #### Agile Methodologies
 
