@@ -86,14 +86,14 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 
 #### Agile Methodologies
 
-[Scrum](https://amzn.to/2IXg2uu) by Jeff Sutherland and JJ Sutherland [📘](https://amzn.to/2IXg2uu) [🎧](https://amzn.to/2SOhpuO)  
-[Essential Scrum](https://amzn.to/2Ugg41t) by Kenneth S. Rubin [📘](https://amzn.to/2Ugg41t)  
-[Agile Retrospectives](https://amzn.to/2XsnwbQ) by Esther Derby, Diana Larsen, and Ken Schwaber [📘](https://amzn.to/2XsnwbQ)  
+[Scrum](https://amzn.to/2VgfYdT) by Jeff Sutherland and JJ Sutherland [📘](https://amzn.to/2VgfYdT) [🎧](https://amzn.to/2ZruGhC)  
+[Essential Scrum](https://amzn.to/2IxNqXu) by Kenneth S. Rubin [📘](https://amzn.to/2IxNqXu)  
+[Agile Retrospectives](https://amzn.to/2XwMrdA) by Esther Derby, Diana Larsen, and Ken Schwaber [📘](https://amzn.to/2XwMrdA)  
 
 #### Communication
 
-[Nonviolent Communication](https://amzn.to/2ErH47y) by Marshall B. Rosenberg PhD [📘](https://amzn.to/2ErH47y) [🎧](https://amzn.to/2IYp2PP)  
-[Presence](https://amzn.to/2EAT5aV) by Amy Cutty [📘](https://amzn.to/2EAT5aV) [🎧](https://amzn.to/2ES4Kn0)  
+[Nonviolent Communication](https://amzn.to/2Znpzio) by Marshall B. Rosenberg PhD [📘](https://amzn.to/2Znpzio) [🎧](https://amzn.to/2VfzIOZ)  
+[Presence](https://amzn.to/2KTRp2s) by Amy Cutty [📘](https://amzn.to/2KTRp2s) [🎧](https://amzn.to/2Vl8Z3q)  
 
 #### Public Speaking
 
