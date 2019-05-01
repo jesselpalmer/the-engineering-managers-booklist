@@ -121,7 +121,7 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 
 #### DevOps
 
-[DevOps Handbook](https://amzn.to/2VFxJno) by Gene Kim, Patrick Debois, John Willis and Jez Humble [📘](https://amzn.to/2VFxJno) [🎧](https://amzn.to/2WcY4WO)  
+[DevOps Handbook](https://amzn.to/2VFxJno) by Gene Kim, Patrick Debois, John Willis and Jez Humble [📘](https://amzn.to/2VFxJno) [🎧](https://amzn.to/2PEVzKq)  
 [The Phoenix Project](https://amzn.to/2GN9Z7e) by Gene Kim, Kevin Behr and George Spafford [📘](https://amzn.to/2GN9Z7e) [🎧](https://amzn.to/2VKVHxH)  
 
 ## 👨🏾‍💻 About Me
