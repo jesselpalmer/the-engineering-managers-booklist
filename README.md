@@ -97,32 +97,32 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 
 #### Public Speaking
 
-[Demystifying Public Speaking](https://amzn.to/2XAmbzV) by Lara Hogan [📘](https://amzn.to/2XAmbzV)  
+[Demystifying Public Speaking](https://amzn.to/2DHm90T) by Lara Hogan [📘](https://amzn.to/2DHm90T)  
 
 ### Tech Skills
 
 #### Software Engineering
 
-[The Pragmatic Programmer](https://amzn.to/2tNfTz5) by Andrew Hunt and David Thomas [📘](https://amzn.to/2tNfTz5)  
-[The Effective Engineer](https://amzn.to/2ExGNjo) by Edmond Lau [📘](https://amzn.to/2ExGNjo)  
-[Rapid Development](https://amzn.to/2GXwity) by Steve McConnell [📘](https://amzn.to/2GXwity)  
-[Software Estimation](https://amzn.to/2HcWjEm) by Steve McConnell [📘](https://amzn.to/2HcWjEm)  
-[Software Project Survival Guide](https://amzn.to/2EHMBZd) by Steve McConnell [📘](https://amzn.to/2EHMBZd)  
-[Code Complete](https://amzn.to/2UmpOr6) by Steve McConnell [📘](https://amzn.to/2UmpOr6)  
+[The Pragmatic Programmer](https://amzn.to/2XUOQPq) by Andrew Hunt and David Thomas [📘](https://amzn.to/2XUOQPq)  
+[The Effective Engineer](https://amzn.to/2VCLEdD) by Edmond Lau [📘](https://amzn.to/2VCLEdD)  
+[Rapid Development](https://amzn.to/2WjgwNE) by Steve McConnell [📘](https://amzn.to/2WjgwNE)  
+[Software Estimation](https://amzn.to/2Y4tv6p) by Steve McConnell [📘](https://amzn.to/2Y4tv6p)  
+[Software Project Survival Guide](https://amzn.to/2VIk2Uu) by Steve McConnell [📘](https://amzn.to/2VIk2Uu)  
+[Code Complete](https://amzn.to/2VHBE2M) by Steve McConnell [📘](https://amzn.to/2VHBE2M)  
 
 #### Continuous Delivery / Continuous Integration
 
-[Continuous Delivery](https://amzn.to/2TdNm4P) by Jez Humble and David Farley [📘](https://amzn.to/2TdNm4P)  
-[Continuous Integration](https://amzn.to/2Vvg6mo) by Paul M. Duvall, Steve Matyas, and Andrew Glover [📘](https://amzn.to/2Vvg6mo)  
+[Continuous Delivery](https://amzn.to/2V4GcRo) by Jez Humble and David Farley [📘](https://amzn.to/2V4GcRo)  
+[Continuous Integration](https://amzn.to/2VBoLrb) by Paul M. Duvall, Steve Matyas, and Andrew Glover [📘](https://amzn.to/2VBoLrb)  
 
 #### Testing
 
-[Test Driven Development](https://amzn.to/2Eyr83E) by Kent Beck [📘](https://amzn.to/2Eyr83E)  
+[Test Driven Development](https://amzn.to/2PF1JKE) by Kent Beck [📘](https://amzn.to/2PF1JKE)  
 
 #### DevOps
 
-[DevOps Handbook](https://amzn.to/2tOw7bq) by Gene Kim, Patrick Debois, John Willis and Jez Humble [📘](https://amzn.to/2tOw7bq) [🎧](https://amzn.to/2NNBnVE)  
-[The Phoenix Project](https://amzn.to/2EvzUiD) by Gene Kim, Kevin Behr and George Spafford [📘](https://amzn.to/2EvzUiD) [🎧](https://amzn.to/2VGaSUU)  
+[DevOps Handbook](https://amzn.to/2VFxJno) by Gene Kim, Patrick Debois, John Willis and Jez Humble [📘](https://amzn.to/2VFxJno) [🎧](https://amzn.to/2PIJmEK)  
+[The Phoenix Project](https://amzn.to/2PHBTW9) by Gene Kim, Kevin Behr and George Spafford [📘](https://amzn.to/2PHBTW9) [🎧](https://amzn.to/2VKVHxH)  
 
 ## 👨🏾‍💻 About Me
 
