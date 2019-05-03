@@ -109,6 +109,7 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 [Software Estimation](https://amzn.to/2Y4tv6p) by Steve McConnell [📘](https://amzn.to/2Y4tv6p)  
 [Software Project Survival Guide](https://amzn.to/2VIk2Uu) by Steve McConnell [📘](https://amzn.to/2VIk2Uu)  
 [Code Complete](https://amzn.to/2VHBE2M) by Steve McConnell [📘](https://amzn.to/2VHBE2M)  
+[Refactor](https://amzn.to/2PIvnP3) by Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts, and Erich Gamma [📘](https://amzn.to/2PIvnP3)  
 
 #### Continuous Delivery / Continuous Integration
 
