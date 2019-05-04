@@ -1,13 +1,19 @@
 
 # The Engineering Manager's Booklist &nbsp; [![Tweet booklist](https://img.shields.io/twitter/url/https/shields.io.svg?style=social)](https://twitter.com/home?status=The%20Engineering%20Manager%27s%20Booklist%20%40jesselpalmer%20https%3A%2F%2Fgithub.com%2Fjesselpalmer%2Fthe-engineering-managers-booklist)
 
-Books for people who are or aspire to manage/lead team(s) of software engineers. This includes, but isn't limited to, Team Leads, Tech Leads, Managers, Directors, VPs of Engineering and CTOs. Pull requests are welcome.
+Books for people who are or aspire to manage/lead team(s) of software engineers. This includes, but isn't limited to, Team Leads, Tech Leads, Managers, Directors, VPs of Engineering and CTOs. Pull requests are welcome.  
+
+## Getting Started
+
+There are a ton of great books on this list, but if you want to start out reading the top books, I would recommend the following:
+
+[The Manager's Path](https://amzn.to/2DgqkQM) by Camille Fournier [📘](https://amzn.to/2DgqkQM)  
+[Managing Humans](https://amzn.to/2IoAx1S) by Michael Lopp [📘](https://amzn.to/2IoAx1S)  
+[Managing the Unmanageable](https://amzn.to/2DhLBK9) by Mickey W. Mantle and Ron Lichty [📘](https://amzn.to/2DhLBK9)  
 
 ## 📚Books
 
 ### Table of Contents
-
-1. [Getting Started](#getting-started)
 
 ### Part I: [Soft Skills](#soft-skills)
 
@@ -30,14 +36,6 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 1. [Continuous Delivery / Continuous Integration](#continuous-delivery--continuous-integration)  
 1. [Testing](#testing)
 1. [DevOps](#DevOps)  
-
-### Getting Started
-
-There are a ton of great books on this list, but if you want to start out reading the top books, I would recommend the following:
-
-[The Manager's Path](https://amzn.to/2DgqkQM) by Camille Fournier [📘](https://amzn.to/2DgqkQM)  
-[Managing Humans](https://amzn.to/2IoAx1S) by Michael Lopp [📘](https://amzn.to/2IoAx1S)  
-[Managing the Unmanageable](https://amzn.to/2DhLBK9) by Mickey W. Mantle and Ron Lichty [📘](https://amzn.to/2DhLBK9)  
 
 ### Part I: Soft Skills
 
