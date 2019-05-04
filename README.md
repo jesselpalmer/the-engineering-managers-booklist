@@ -7,6 +7,8 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 
 ### Table of Contents
 
+1. [Getting Started](#getting-started)
+
 ### Part I: [Soft Skills](#soft-skills)
 
 ---
@@ -27,9 +29,17 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 1. [Software Engineering](#software-engineering)  
 1. [Continuous Delivery / Continuous Integration](#continuous-delivery--continuous-integration)  
 1. [Testing](#testing)
-1. [DevOps](#DevOps)
+1. [DevOps](#DevOps)  
 
-### Soft Skills
+### Getting Started
+
+There are a ton of great books on this list, but if you want to start out reading the top books, I would recommend the following:
+
+1. [The Manager's Path](https://amzn.to/2DgqkQM) by Camille Fournier [📘](https://amzn.to/2DgqkQM)  
+1. [Managing Humans](https://amzn.to/2IoAx1S) by Michael Lopp [📘](https://amzn.to/2IoAx1S)  
+1. [Managing the Unmanageable](https://amzn.to/2DhLBK9) by Mickey W. Mantle and Ron Lichty [📘](https://amzn.to/2DhLBK9)  
+
+### Part I: Soft Skills
 
 #### Management
 
@@ -99,7 +109,7 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 
 [Demystifying Public Speaking](https://amzn.to/2DHm90T) by Lara Hogan [📘](https://amzn.to/2DHm90T)  
 
-### Tech Skills
+### Part II: Tech Skills
 
 #### Software Engineering
 
