@@ -35,9 +35,9 @@ Books for people who are or aspire to manage/lead team(s) of software engineers.
 
 There are a ton of great books on this list, but if you want to start out reading the top books, I would recommend the following:
 
-1. [The Manager's Path](https://amzn.to/2DgqkQM) by Camille Fournier [📘](https://amzn.to/2DgqkQM)  
-1. [Managing Humans](https://amzn.to/2IoAx1S) by Michael Lopp [📘](https://amzn.to/2IoAx1S)  
-1. [Managing the Unmanageable](https://amzn.to/2DhLBK9) by Mickey W. Mantle and Ron Lichty [📘](https://amzn.to/2DhLBK9)  
+[The Manager's Path](https://amzn.to/2DgqkQM) by Camille Fournier [📘](https://amzn.to/2DgqkQM)  
+[Managing Humans](https://amzn.to/2IoAx1S) by Michael Lopp [📘](https://amzn.to/2IoAx1S)  
+[Managing the Unmanageable](https://amzn.to/2DhLBK9) by Mickey W. Mantle and Ron Lichty [📘](https://amzn.to/2DhLBK9)  
 
 ### Part I: Soft Skills
 
