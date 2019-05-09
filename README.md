@@ -27,6 +27,7 @@ There are a ton of great books on this list, but if you want to start out readin
 1. [Agile Methodologies](#agile-methodologies)
 1. [Communication](#communication)
 1. [Public Speaking](#public-speaking)
+1. [Onboarding](#onboarding)
 
 ### Part II: [Tech Skills](#tech-skills)
 
@@ -106,6 +107,10 @@ There are a ton of great books on this list, but if you want to start out readin
 #### Public Speaking
 
 [Demystifying Public Speaking](https://amzn.to/2DHm90T) by Lara Hogan [📘](https://amzn.to/2DHm90T)  
+
+#### Onboarding
+
+[First 90 Days](https://amzn.to/2Jt7N7P) by Harvard Business Review Press [📘](https://amzn.to/2Jt7N7P) [🎧](https://amzn.to/2Vo4plY)  
 
 ### Part II: Tech Skills
 
