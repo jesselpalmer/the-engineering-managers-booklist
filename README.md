@@ -11,6 +11,10 @@ There are a ton of great books on this list, but if you want to start out readin
 [Managing Humans](https://amzn.to/2IoAx1S) by Michael Lopp [📘](https://amzn.to/2IoAx1S)  
 [Managing the Unmanageable](https://amzn.to/2DhLBK9) by Mickey W. Mantle and Ron Lichty [📘](https://amzn.to/2DhLBK9)  
 
+## Tips on book selection
+
+If you have been a manager for a while, I would recommend concentrating on the soft skills portion, since those will likely become more important as you continue to advance in your career. If you are at an earlier stage in your managerial career you may want to think about reading some of the tech skills books. These books will help you buid a strong software engineering foundation regardless of tech stack.
+
 ## 📚Books
 
 ### Table of Contents
