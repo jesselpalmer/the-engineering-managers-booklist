@@ -68,6 +68,8 @@ If you have been a manager for a while, I would recommend concentrating on the s
 [The Score Takes Care of Itself](https://amzn.to/2XmKj81) by Bill Walsh, Steve Jamison, and Craig Walsh [📘](https://amzn.to/2XmKj81) [🎧](https://amzn.to/2Zl8m9a)  
 [Leadership is an Art](https://amzn.to/2Dk3Jmm) from Max Depree [📘](https://amzn.to/2Dk3Jmm) [🎧](https://amzn.to/2GipeF0)  
 [Developing the Leader Within You](https://amzn.to/2ItqTLE) by John C. Maxwell [📘](https://amzn.to/2ItqTLE) [🎧](https://amzn.to/2XmNtbT)  
+[Trillion Dollar Coach](https://amzn.to/2W28HPg)
+by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://amzn.to/2W28HPg) [🎧](https://amzn.to/2E4g4eT)
 
 #### Coaching
 
