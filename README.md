@@ -137,7 +137,7 @@ by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://amzn.to/2W28HP
 [Software Estimation](https://amzn.to/2Y4tv6p) by Steve McConnell [📘](https://amzn.to/2Y4tv6p)  
 [Software Project Survival Guide](https://amzn.to/2VIk2Uu) by Steve McConnell [📘](https://amzn.to/2VIk2Uu)  
 [Code Complete](https://amzn.to/2VHBE2M) by Steve McConnell [📘](https://amzn.to/2VHBE2M)  
-[Domain-Driven Design](https://amzn.to/2IJrQNo) by Eric Evans [📘](https://amzn.to/2IJrQNo)
+[Domain-Driven Design](https://amzn.to/2IJrQNo) by Eric Evans [📘](https://amzn.to/2IJrQNo)  
 [Refactor](https://amzn.to/2PIvnP3) by Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts, and Erich Gamma [📘](https://amzn.to/2PIvnP3)  
 [The Mythical Man-Month](https://amzn.to/2GohQbi) by Frederick P. Brooks Jr. [📘](https://amzn.to/2GohQbi)  
 [Structure and Interpretation of Computer Programs](https://amzn.to/2MTQP5Y) by Harold Abelson, Gerald Jay Sussman, and Julie Sussman [📘](https://amzn.to/2MTQP5Y)
