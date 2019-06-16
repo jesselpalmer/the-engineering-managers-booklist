@@ -130,7 +130,7 @@ by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://amzn.to/2W28HP
 
 #### Software Engineering
 
-[Clean Code](https://amzn.to/2WPEj7q) by Robert C. Martin [📘](https://amzn.to/2WPEj7q)
+[Clean Code](https://amzn.to/2WPEj7q) by Robert C. Martin [📘](https://amzn.to/2WPEj7q)  
 [The Pragmatic Programmer](https://amzn.to/2XUOQPq) by Andrew Hunt and David Thomas [📘](https://amzn.to/2XUOQPq)  
 [The Effective Engineer](https://amzn.to/2VCLEdD) by Edmond Lau [📘](https://amzn.to/2VCLEdD)  
 [Rapid Development](https://amzn.to/2WjgwNE) by Steve McConnell [📘](https://amzn.to/2WjgwNE)  
