@@ -3,6 +3,12 @@
 
 Books for people who are or aspire to manage/lead team(s) of software engineers. This includes, but isn't limited to, Team Leads, Tech Leads, Managers, Directors, VPs of Engineering and CTOs. Pull requests are welcome.  
 
+## 👨🏾‍💻 About Me
+
+ [![Follow me on Twitter](https://img.shields.io/badge/Follow%20me%20on%20Twitter-%40jesselpalmer-blue.svg)](https://twitter.com/jesselpalmer) [![Newsletter Sign Up](https://img.shields.io/badge/Sign%20up%20for%20my%20Newsletter-On%20Engineering%20Leadership-blue.svg)](https://tinyletter.com/jesselpalmer)
+
+Hello, thanks for reading! A little about me, I have been an engineering manager at Fortune 100 companies and startups. This list represents the books that I have found valuable in my career. If you want to see what I'm reading checkout my list on [GoodRead's list](https://www.goodreads.com/review/list/39697003-jesse-palmer?shelf=currently-reading). Use the above buttons if you want to hear about my ramblings on engineering leadership.  
+
 ## Getting Started
 
 There are a ton of great books on this list, but if you want to start out reading the top books, I would recommend the following:
@@ -143,9 +149,3 @@ by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://amzn.to/2W28HP
 
 [DevOps Handbook](https://amzn.to/2VFxJno) by Gene Kim, Patrick Debois, John Willis and Jez Humble [📘](https://amzn.to/2VFxJno) [🎧](https://amzn.to/2PEVzKq)  
 [The Phoenix Project](https://amzn.to/2GN9Z7e) by Gene Kim, Kevin Behr and George Spafford [📘](https://amzn.to/2GN9Z7e) [🎧](https://amzn.to/2VKVHxH)  
-
-## 👨🏾‍💻 About Me
-
-Hello, thanks for reading down this far! A little about me, I have been an engineering manager at Fortune 100 companies and startups. This list represents the books that I have found valuable in my career. Use the below buttons if you want to hear about my ramblings on engineering leadership.
-
- [![Follow me on Twitter](https://img.shields.io/badge/Follow%20me%20on%20Twitter-%40jesselpalmer-blue.svg)](https://twitter.com/jesselpalmer) [![Newsletter Sign Up](https://img.shields.io/badge/Sign%20up%20for%20my%20Newsletter-On%20Engineering%20Leadership-blue.svg)](https://tinyletter.com/jesselpalmer)
