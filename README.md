@@ -11,15 +11,18 @@ Hello, thanks for reading! A little about me, I have been an engineering manager
 
 ## Getting Started
 
+### Best of the List
+
 There are a ton of great books on this list, but if you want to start out reading the top books, I would recommend the following:
 
 [The Manager's Path](https://amzn.to/2DgqkQM) by Camille Fournier [📘](https://amzn.to/2DgqkQM)  
 [Managing Humans](https://amzn.to/2IoAx1S) by Michael Lopp [📘](https://amzn.to/2IoAx1S)  
 [Managing the Unmanageable](https://amzn.to/2DhLBK9) by Mickey W. Mantle and Ron Lichty [📘](https://amzn.to/2DhLBK9)  
 
-## Tips on book selection
+### Tips on Book Selection
 
-If you have been a manager for a while, I would recommend concentrating on the soft skills portion, since those will likely become more important as you continue to advance in your career. If you are at an earlier stage in your managerial career you may want to think about reading some of the tech skills books. These books will help you buid a strong software engineering foundation regardless of tech stack.
+The books or subjects aren't in any particular order so feel free to dive into the topics that you want to learn more about. If you are comfortable with your tech skills, I would recommend diving into the soft skills section. If you are more confident in your
+soft skills, then I would recommend picking out some books in the tech skills section.
 
 ## 📚Books
 
@@ -85,7 +88,6 @@ by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://amzn.to/2W28HP
 #### People
 
 [Peopleware](https://amzn.to/2KPzrhQ) by Tom DeMarco and Tim Lister [📘](https://amzn.to/2KPzrhQ)  
-[The Mythical Man-Month](https://amzn.to/2GohQbi) by Frederick P. Brooks Jr. [📘](https://amzn.to/2GohQbi)  
 [How to Win Friends and Influence People](https://amzn.to/2GlPqP7) by Dale Carnegie [📘](https://amzn.to/2GlPqP7) [🎧](https://amzn.to/2Dxo6Np)
 
 #### Culture
@@ -128,13 +130,17 @@ by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://amzn.to/2W28HP
 
 #### Software Engineering
 
+[Clean Code](https://amzn.to/2WPEj7q) by Robert C. Martin [📘](https://amzn.to/2WPEj7q)
 [The Pragmatic Programmer](https://amzn.to/2XUOQPq) by Andrew Hunt and David Thomas [📘](https://amzn.to/2XUOQPq)  
 [The Effective Engineer](https://amzn.to/2VCLEdD) by Edmond Lau [📘](https://amzn.to/2VCLEdD)  
 [Rapid Development](https://amzn.to/2WjgwNE) by Steve McConnell [📘](https://amzn.to/2WjgwNE)  
 [Software Estimation](https://amzn.to/2Y4tv6p) by Steve McConnell [📘](https://amzn.to/2Y4tv6p)  
 [Software Project Survival Guide](https://amzn.to/2VIk2Uu) by Steve McConnell [📘](https://amzn.to/2VIk2Uu)  
 [Code Complete](https://amzn.to/2VHBE2M) by Steve McConnell [📘](https://amzn.to/2VHBE2M)  
+[Domain-Driven Design](https://amzn.to/2IJrQNo) by Eric Evans [📘](https://amzn.to/2IJrQNo)
 [Refactor](https://amzn.to/2PIvnP3) by Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts, and Erich Gamma [📘](https://amzn.to/2PIvnP3)  
+[The Mythical Man-Month](https://amzn.to/2GohQbi) by Frederick P. Brooks Jr. [📘](https://amzn.to/2GohQbi)  
+[Structure and Interpretation of Computer Programs](https://amzn.to/2MTQP5Y) by Harold Abelson, Gerald Jay Sussman, and Julie Sussman [📘](https://amzn.to/2MTQP5Y)
 
 #### Continuous Delivery / Continuous Integration
 
