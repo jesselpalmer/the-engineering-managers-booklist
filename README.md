@@ -70,6 +70,7 @@ soft skills, then I would recommend picking out some books in the tech skills se
 [The Goal](https://amzn.to/2DjQthG) by Eliyahu M. Goldratt and Jeff Cox [📘](https://amzn.to/2DjQthG) [🎧](https://amzn.to/2XkdVmq)  
 [Managing the Unmanageable](https://amzn.to/2DhLBK9) by Mickey W. Mantle and Ron Lichty [📘](https://amzn.to/2DhLBK9)  
 [Behind Closed Doors](https://amzn.to/2Io85gL) by Johanna Rothman and Esther Derby [📘](https://amzn.to/2Io85gL)  
+[An Elegant Puzzle - Systems of Engineering Management](https://www.amazon.com/dp/1732265186) by Will Larson [📘](https://www.amazon.com/dp/1732265186)
 
 #### Leadership
 
@@ -78,7 +79,8 @@ soft skills, then I would recommend picking out some books in the tech skills se
 [Leadership is an Art](https://amzn.to/2Dk3Jmm) from Max Depree [📘](https://amzn.to/2Dk3Jmm) [🎧](https://amzn.to/2GipeF0)  
 [Developing the Leader Within You](https://amzn.to/2ItqTLE) by John C. Maxwell [📘](https://amzn.to/2ItqTLE) [🎧](https://amzn.to/2XmNtbT)  
 [Trillion Dollar Coach](https://amzn.to/2W28HPg)
-by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://amzn.to/2W28HPg) [🎧](https://amzn.to/2E4g4eT)
+by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://amzn.to/2W28HPg) [🎧](https://amzn.to/2E4g4eT)   
+[Influencing without Authority](https://www.amazon.com/dp/1119347718) by Allan R. Cohen and David L. Bradford [📘](https://www.amazon.com/dp/1119347718)
 
 #### Coaching
 
