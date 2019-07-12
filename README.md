@@ -57,6 +57,7 @@ soft skills, then I would recommend picking out some books in the tech skills se
 
 [Building Great Software Engineering Teams](https://amzn.to/2IDypCz) by Joshua Tyler [📘](https://amzn.to/2IDypCz)  
 [The Manager's Path](https://amzn.to/2DgqkQM) by Camille Fournier [📘](https://amzn.to/2DgqkQM)  
+[The Making of a Manager](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/) by Julie Zhuo [📘](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/) [🎧](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/B07NGSZGFG/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)  
 [Death by Meeting](https://amzn.to/2XgIWaX) by Patrick M. Lencioni [📘](https://amzn.to/2XgIWaX) [🎧](https://amzn.to/2DfZV5S)  
 [High Output Management](https://amzn.to/2XfMSJ5) by Andrew S. Grove [📘](https://amzn.to/2XfMSJ5)  
 [Managing Humans](https://amzn.to/2IoAx1S) by Michael Lopp [📘](https://amzn.to/2IoAx1S)  
