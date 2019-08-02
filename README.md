@@ -81,8 +81,9 @@ soft skills, then I would recommend picking out some books in the tech skills se
 [Leadership is an Art](https://amzn.to/2Dk3Jmm) from Max Depree [📘](https://amzn.to/2Dk3Jmm) [🎧](https://amzn.to/2GipeF0)  
 [Developing the Leader Within You](https://amzn.to/2ItqTLE) by John C. Maxwell [📘](https://amzn.to/2ItqTLE) [🎧](https://amzn.to/2XmNtbT)  
 [Trillion Dollar Coach](https://amzn.to/2W28HPg)
-by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://amzn.to/2W28HPg) [🎧](https://amzn.to/2E4g4eT)   
-[Influencing without Authority](https://www.amazon.com/dp/1119347718) by Allan R. Cohen and David L. Bradford [📘](https://www.amazon.com/dp/1119347718)
+by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://amzn.to/2W28HPg) [🎧](https://amzn.to/2E4g4eT)  
+[Influencing without Authority](https://www.amazon.com/dp/1119347718) by Allan R. Cohen and David L. Bradford [📘](https://www.amazon.com/dp/1119347718)  
+[Nine Lies About Work](https://www.amazon.com/Nine-Lies-about-Work-Freethinking-ebook/dp/B07C3ZT28C) by Marcus Buckingham, Ashley Goodall [📘](https://www.amazon.com/Nine-Lies-about-Work-Freethinking-ebook/dp/B07C3ZT28C) [🎧](https://www.amazon.com/Nine-Lies-About-Work-Freethinking/dp/B07Q3J5MK3/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)  
 
 #### Coaching
 
