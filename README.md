@@ -122,6 +122,7 @@ by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://amzn.to/2W28HP
 
 [Nonviolent Communication](https://amzn.to/2Znpzio) by Marshall B. Rosenberg PhD [📘](https://amzn.to/2Znpzio) [🎧](https://amzn.to/2VfzIOZ)  
 [Presence](https://amzn.to/2KTRp2s) by Amy Cutty [📘](https://amzn.to/2KTRp2s) [🎧](https://amzn.to/2Vl8Z3q)  
+[Humble Inquiry](https://www.amazon.com/Humble-Inquiry-Gentle-Instead-Telling/dp/1609949811) by Edgar H. Schein [📘](https://www.amazon.com/Humble-Inquiry-Gentle-Instead-Telling/dp/1609949811) [🎧](https://www.amazon.com/Humble-Inquiry-Gentle-Instead-Telling/dp/B00M1Z30A4/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)  
 
 #### Public Speaking
 
