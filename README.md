@@ -86,7 +86,7 @@ soft skills, then I would recommend picking out some books in the tech skills se
 by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://amzn.to/2W28HPg) [🎧](https://amzn.to/2E4g4eT)  
 [Influencing without Authority](https://www.amazon.com/dp/1119347718) by Allan R. Cohen and David L. Bradford [📘](https://www.amazon.com/dp/1119347718)  
 [Nine Lies About Work](https://www.amazon.com/Nine-Lies-about-Work-Freethinking-ebook/dp/B07C3ZT28C) by Marcus Buckingham, Ashley Goodall [📘](https://www.amazon.com/Nine-Lies-about-Work-Freethinking-ebook/dp/B07C3ZT28C) [🎧](https://www.amazon.com/Nine-Lies-About-Work-Freethinking/dp/B07Q3J5MK3/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)  
-
+[Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404) by L. David Marquet [📘](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404)
 #### Coaching
 
 [Radical Candor](https://amzn.to/2IrQvIM) by Kim Scott [📘](https://amzn.to/2IrQvIM) [🎧](https://amzn.to/2KJ3c3x)  
