@@ -78,6 +78,7 @@ soft skills, then I would recommend picking out some books in the tech skills se
 
 #### Leadership
 
+[The Effective Executive](https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459) by Peter Drucker [📘](https://www.amazon.com/Effective-Executive-Definitive-Harperbusiness-Essentials/dp/0060833459) [🎧](https://www.amazon.com/Effective-Executive-Definitive-Getting-Things/dp/B01N51TCT1)   
 [Leading Snowflakes](http://leadingsnowflakes.com) by Oren Ellenbogen [📘](http://leadingsnowflakes.com)  
 [The Score Takes Care of Itself](https://amzn.to/2XmKj81) by Bill Walsh, Steve Jamison, and Craig Walsh [📘](https://amzn.to/2XmKj81) [🎧](https://amzn.to/2Zl8m9a)  
 [Leadership is an Art](https://amzn.to/2Dk3Jmm) from Max Depree [📘](https://amzn.to/2Dk3Jmm) [🎧](https://amzn.to/2GipeF0)  
@@ -86,7 +87,8 @@ soft skills, then I would recommend picking out some books in the tech skills se
 by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://amzn.to/2W28HPg) [🎧](https://amzn.to/2E4g4eT)  
 [Influencing without Authority](https://www.amazon.com/dp/1119347718) by Allan R. Cohen and David L. Bradford [📘](https://www.amazon.com/dp/1119347718)  
 [Nine Lies About Work](https://www.amazon.com/Nine-Lies-about-Work-Freethinking-ebook/dp/B07C3ZT28C) by Marcus Buckingham, Ashley Goodall [📘](https://www.amazon.com/Nine-Lies-about-Work-Freethinking-ebook/dp/B07C3ZT28C) [🎧](https://www.amazon.com/Nine-Lies-About-Work-Freethinking/dp/B07Q3J5MK3/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)  
-[Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404) by L. David Marquet [📘](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404)
+[Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404) by L. David Marquet [📘](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404)  
+
 #### Coaching
 
 [Radical Candor](https://amzn.to/2IrQvIM) by Kim Scott [📘](https://amzn.to/2IrQvIM) [🎧](https://amzn.to/2KJ3c3x)  
