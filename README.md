@@ -11,6 +11,12 @@ Hello, thanks for reading! A little about me, I have been an engineering manager
 
 ## Getting Started
 
+### First book
+
+If you are goind to read one book off of this list, I highly recommend the following:
+
+[The Manager's Path](https://amzn.to/2DgqkQM) by Camille Fournier [📘](https://amzn.to/2DgqkQM)  
+
 ### Best of the List
 
 There are a ton of great books on this list, but if you want to start out reading the top books, I would recommend the following:
