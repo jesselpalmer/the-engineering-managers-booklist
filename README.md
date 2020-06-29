@@ -13,7 +13,7 @@ Hello, thanks for reading! A little about me, I have been an engineering manager
 
 ### First book
 
-If you are goind to read one book off of this list, I highly recommend the following:
+If you are going to read one book off of this list, I highly recommend the following:
 
 [The Manager's Path](https://amzn.to/2DgqkQM) by Camille Fournier [📘](https://amzn.to/2DgqkQM)  
 
