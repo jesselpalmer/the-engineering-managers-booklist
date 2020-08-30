@@ -21,16 +21,17 @@ There are a ton of great books on this list, but if you want to start out readin
 [The Making of a Manager](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/) by Julie Zhuo [📘](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/) [🎧](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/B07NGSZGFG/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)  
 [An Elegant Puzzle - Systems of Engineering Management](https://www.amazon.com/dp/1732265186) by Will Larson [📘](https://www.amazon.com/dp/1732265186)  
 
-### Tips on Book Selection
+### Book selection
 
-The books or subjects aren't in any particular order so feel free to dive into the topics that you want to learn more about. If you are comfortable with your tech skills, I would recommend diving into the soft skills section. If you are more confident in your
-soft skills, then I would recommend picking out some books in the tech skills section.
+The books or subjects aren't in any particular order so feel free to dive into the topics that you want to learn more about. 
+
+### Reading advice
+
+Personally, I prefer audiobooks. They allow me to listen to books while I'm cooking in the kitchen, cleaning up my room, taking a walk around my neighborhood, commuting, etc. Usually, I listen to them at 1.5x to 2x the speed depending on how fast the person narrates the book.
 
 ## 📚Books
 
 ### Table of Contents
-
-### Part I: [Soft Skills](#soft-skills)
 
 ---
 
@@ -43,17 +44,6 @@ soft skills, then I would recommend picking out some books in the tech skills se
 1. [Communication](#communication)
 1. [Public Speaking](#public-speaking)
 1. [Onboarding](#onboarding)
-
-### Part II: [Tech Skills](#tech-skills)
-
----
-
-1. [Software Engineering](#software-engineering)  
-1. [Continuous Delivery / Continuous Integration](#continuous-delivery--continuous-integration)  
-1. [Testing](#testing)
-1. [DevOps](#DevOps)  
-
-### Part I: Soft Skills
 
 #### Management
 
@@ -135,33 +125,3 @@ by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://amzn.to/2W28HP
 #### Onboarding
 
 [First 90 Days](https://amzn.to/2Jt7N7P) by Harvard Business Review Press [📘](https://amzn.to/2Jt7N7P) [🎧](https://amzn.to/2Vo4plY)  
-
-### Part II: Tech Skills
-
-#### Software Engineering
-
-[Clean Code](https://amzn.to/2WPEj7q) by Robert C. Martin [📘](https://amzn.to/2WPEj7q)  
-[The Pragmatic Programmer](https://amzn.to/2XUOQPq) by Andrew Hunt and David Thomas [📘](https://amzn.to/2XUOQPq)  
-[The Effective Engineer](https://amzn.to/2VCLEdD) by Edmond Lau [📘](https://amzn.to/2VCLEdD)  
-[Rapid Development](https://amzn.to/2WjgwNE) by Steve McConnell [📘](https://amzn.to/2WjgwNE)  
-[Software Estimation](https://amzn.to/2Y4tv6p) by Steve McConnell [📘](https://amzn.to/2Y4tv6p)  
-[Software Project Survival Guide](https://amzn.to/2VIk2Uu) by Steve McConnell [📘](https://amzn.to/2VIk2Uu)  
-[Code Complete](https://amzn.to/2VHBE2M) by Steve McConnell [📘](https://amzn.to/2VHBE2M)  
-[Domain-Driven Design](https://amzn.to/2IJrQNo) by Eric Evans [📘](https://amzn.to/2IJrQNo)  
-[Refactor](https://amzn.to/2PIvnP3) by Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts, and Erich Gamma [📘](https://amzn.to/2PIvnP3)  
-[The Mythical Man-Month](https://amzn.to/2GohQbi) by Frederick P. Brooks Jr. [📘](https://amzn.to/2GohQbi)  
-[Structure and Interpretation of Computer Programs](https://amzn.to/2MTQP5Y) by Harold Abelson, Gerald Jay Sussman, and Julie Sussman [📘](https://amzn.to/2MTQP5Y)
-
-#### Continuous Delivery / Continuous Integration
-
-[Continuous Delivery](https://amzn.to/2V4GcRo) by Jez Humble and David Farley [📘](https://amzn.to/2V4GcRo)  
-[Continuous Integration](https://amzn.to/2VBoLrb) by Paul M. Duvall, Steve Matyas, and Andrew Glover [📘](https://amzn.to/2VBoLrb)  
-
-#### Testing
-
-[Test Driven Development](https://amzn.to/2PF1JKE) by Kent Beck [📘](https://amzn.to/2PF1JKE)  
-
-#### DevOps
-
-[DevOps Handbook](https://amzn.to/2VFxJno) by Gene Kim, Patrick Debois, John Willis and Jez Humble [📘](https://amzn.to/2VFxJno) [🎧](https://amzn.to/2PEVzKq)  
-[The Phoenix Project](https://amzn.to/2GN9Z7e) by Gene Kim, Kevin Behr and George Spafford [📘](https://amzn.to/2GN9Z7e) [🎧](https://amzn.to/2VKVHxH)  
