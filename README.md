@@ -15,17 +15,17 @@ Hello, thanks for reading! A little about me, I have been an engineering manager
 
 If you are going to read one book off of this list, I highly recommend the following:
 
-[The Manager's Path](https://amzn.to/2DgqkQM) by Camille Fournier [📘](https://amzn.to/2DgqkQM)  
+[The Manager's Path](https://www.amazon.com/gp/product/1491973897/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491973897&linkCode=as2&tag=ss102520-20&linkId=2ea1cf23d3bf64f72aa01eec941ba59b) by Camille Fournier [📘](https://www.amazon.com/gp/product/1491973897/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491973897&linkCode=as2&tag=ss102520-20&linkId=2ea1cf23d3bf64f72aa01eec941ba59b)  
 
 ### Best of the List
 
 There are a ton of great books on this list, but if you want to start out reading the top books, I would recommend the following:
 
-[The Manager's Path](https://amzn.to/2DgqkQM) by Camille Fournier [📘](https://amzn.to/2DgqkQM)  
-[Managing Humans](https://amzn.to/2IoAx1S) by Michael Lopp [📘](https://amzn.to/2IoAx1S)  
-[Managing the Unmanageable](https://amzn.to/2DhLBK9) by Mickey W. Mantle and Ron Lichty [📘](https://amzn.to/2DhLBK9)  
-[The Making of a Manager](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/) by Julie Zhuo [📘](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/) [🎧](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/B07NGSZGFG/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)  
-[An Elegant Puzzle - Systems of Engineering Management](https://www.amazon.com/dp/1732265186) by Will Larson [📘](https://www.amazon.com/dp/1732265186)  
+[The Manager's Path](https://www.amazon.com/gp/product/1491973897/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491973897&linkCode=as2&tag=ss102520-20&linkId=2ea1cf23d3bf64f72aa01eec941ba59b) by Camille Fournier [📘](https://www.amazon.com/gp/product/1491973897/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491973897&linkCode=as2&tag=ss102520-20&linkId=2ea1cf23d3bf64f72aa01eec941ba59b)  
+[Managing Humans](https://www.amazon.com/gp/product/1484221575/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1484221575&linkCode=as2&tag=ss102520-20&linkId=25ce2c9079ddf2f5b86d0c9f301c274d) by Michael Lopp [📘](https://www.amazon.com/gp/product/1484221575/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1484221575&linkCode=as2&tag=ss102520-20&linkId=25ce2c9079ddf2f5b86d0c9f301c274d)  
+[Managing the Unmanageable](https://www.amazon.com/gp/product/0135667364/ref=as_li_tl?ie=UTF8&tag=ss102520-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0135667364&linkId=d87a2d7f0a59867631ce11a03d97f24f) by Mickey W. Mantle and Ron Lichty [📘](https://www.amazon.com/gp/product/0135667364/ref=as_li_tl?ie=UTF8&tag=ss102520-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0135667364&linkId=d87a2d7f0a59867631ce11a03d97f24f)  
+[The Making of a Manager](https://www.amazon.com/gp/product/0735219567/ref=as_li_tl?ie=UTF8&tag=ss102520-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0735219567&linkId=b8d722c637c773ca71a15bc5099e3c15) by Julie Zhuo [📘](https://www.amazon.com/gp/product/0735219567/ref=as_li_tl?ie=UTF8&tag=ss102520-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0735219567&linkId=b8d722c637c773ca71a15bc5099e3c15) [🎧](https://www.amazon.com/gp/product/B07KFLRSTS/ref=as_li_tl?ie=UTF8&tag=ss102520-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07KFLRSTS&linkId=cff1899c5eaa0e72f3714e940d201396)  
+[An Elegant Puzzle - Systems of Engineering Management](https://www.amazon.com/gp/product/1732265186/ref=as_li_tl?ie=UTF8&tag=ss102520-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1732265186&linkId=0afb1256592ee01fc265de7a109bf8e5) by Will Larson [📘](https://www.amazon.com/gp/product/1732265186/ref=as_li_tl?ie=UTF8&tag=ss102520-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1732265186&linkId=0afb1256592ee01fc265de7a109bf8e5)  
 
 ### Book selection
 
@@ -54,7 +54,7 @@ Personally, I prefer audiobooks. They allow me to listen to books while I'm cook
 #### Management
 
 [Building Great Software Engineering Teams](https://amzn.to/2IDypCz) by Joshua Tyler [📘](https://amzn.to/2IDypCz)  
-[The Manager's Path](https://amzn.to/2DgqkQM) by Camille Fournier [📘](https://amzn.to/2DgqkQM)  
+[The Manager's Path](https://www.amazon.com/gp/product/1491973897/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491973897&linkCode=as2&tag=ss102520-20&linkId=2ea1cf23d3bf64f72aa01eec941ba59b) by Camille Fournier [📘](https://www.amazon.com/gp/product/1491973897/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491973897&linkCode=as2&tag=ss102520-20&linkId=2ea1cf23d3bf64f72aa01eec941ba59b)  
 [The Making of a Manager](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/) by Julie Zhuo [📘](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/0735219567/) [🎧](https://www.amazon.com/Making-Manager-What-Everyone-Looks/dp/B07NGSZGFG/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)  
 [Death by Meeting](https://amzn.to/2XgIWaX) by Patrick M. Lencioni [📘](https://amzn.to/2XgIWaX) [🎧](https://amzn.to/2DfZV5S)  
 [High Output Management](https://amzn.to/2XfMSJ5) by Andrew S. Grove [📘](https://amzn.to/2XfMSJ5)  
