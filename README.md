@@ -35,6 +35,10 @@ The books or subjects aren't in any particular order so feel free to dive into t
 
 Personally, I prefer audiobooks. They allow me to listen to books while I'm cooking in the kitchen, cleaning up my room, taking a walk around my neighborhood, commuting, etc. Usually, I listen to them at 1.5x to 2x the speed depending on how fast the person narrates the book.
 
+## Feedback
+
+If you have any feedback feel free to fill out this [super quick survey](https://www.surveymonkey.com/r/5PTJNRW). I would love to hear from you!
+
 ## 📚Books
 
 ### Table of Contents
