@@ -112,9 +112,9 @@ by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://www.amazon.com
 
 #### Change Management
 
-[Change or Die](https://amzn.to/2IJ251q) by Alan Deutschman [📘](https://amzn.to/2IJ251q) [🎧](https://amzn.to/2IxYcx1)  
-[Switch](https://amzn.to/2VcMKN3) by Dan Heath, Chip Heath, Charles Kahlenberg [📘](https://amzn.to/2VcMKN3) [🎧](https://amzn.to/2Iw6iGi)  
-[HBR's 10 Must Reads on Change Management](https://amzn.to/2KSpvnL) by John P. Kotter, W. Chan Kim, Renée A. Mauborgne [📘](https://amzn.to/2KSpvnL) [🎧](https://amzn.to/2Gw9AHi)  
+[Change or Die](https://www.amazon.com/gp/product/0061373672/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=ss102520-20&linkId=30498f4a377991559f8320c4e52c759a&language=en_US) by Alan Deutschman [📘](https://www.amazon.com/gp/product/0061373672/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=ss102520-20&linkId=30498f4a377991559f8320c4e52c759a&language=en_US) [🎧](https://www.amazon.com/Change-or-Die-Alan-Deutschman-audiobook/dp/B000MV8X3I/ref=as_li_ss_tl?_encoding=UTF8&qid=&sr=&linkCode=ll1&tag=ss102520-20&linkId=7fc201254ebb03be1e3141afc0338ef9&language=en_US)  
+[Switch](https://www.amazon.com/gp/product/0385528752/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=ss102520-20&linkId=0501b8166a8bd323675cf57a134ee019&language=en_US) by Dan Heath, Chip Heath, Charles Kahlenberg [📘](https://www.amazon.com/gp/product/0385528752/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=ss102520-20&linkId=0501b8166a8bd323675cf57a134ee019&language=en_US) [🎧](https://www.amazon.com/Switch-Dan-Heath-Chip-Heath-audiobook/dp/B0038NLX9S/ref=as_li_ss_tl?_encoding=UTF8&qid=&sr=&linkCode=ll1&tag=ss102520-20&linkId=f66b7908df399053a2979edee5b6722e&language=en_US)  
+[HBR's 10 Must Reads on Change Management](https://www.amazon.com/Change-Management-including-featured-Leading/dp/1633694518/ref=as_li_ss_tl?_encoding=UTF8&qid=1605046662&sr=1-1&linkCode=ll1&tag=ss102520-20&linkId=c8d5eb6ad004a629877173756f64dfda&language=en_US) by John P. Kotter, W. Chan Kim, Renée A. Mauborgne [📘](https://www.amazon.com/Change-Management-including-featured-Leading/dp/1633694518/ref=as_li_ss_tl?_encoding=UTF8&qid=1605046662&sr=1-1&linkCode=ll1&tag=ss102520-20&linkId=c8d5eb6ad004a629877173756f64dfda&language=en_US) [🎧](https://www.amazon.com/HBRs-Must-Reads-Change-Management/dp/B00ZB59U82/ref=as_li_ss_tl?dchild=1&keywords=HBR's+10+Must+Reads+on+Change+Management&qid=1605046662&s=audible&sr=1-1&linkCode=ll1&tag=ss102520-20&linkId=d3dd1d1d1ecfe7186ea2dd9a274b96e6&language=en_US)  
 
 #### Agile Methodologies
 
