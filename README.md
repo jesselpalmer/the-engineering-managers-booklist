@@ -131,6 +131,7 @@ by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://www.amazon.com
 #### Public Speaking
 
 [Demystifying Public Speaking](https://www.amazon.com/DEMYSTIFYING-PUBLIC-SPEAKING-Lara-Hogan/dp/1937557529/ref=as_li_ss_tl?dchild=1&keywords=Demystifying+Public+Speaking&qid=1605048135&s=books&sr=1-3&linkCode=ll1&tag=ss102520-20&linkId=e52a95880799f5bdbdb11434dfde1989&language=en_US) by Lara Hogan [📘](https://www.amazon.com/DEMYSTIFYING-PUBLIC-SPEAKING-Lara-Hogan/dp/1937557529/ref=as_li_ss_tl?dchild=1&keywords=Demystifying+Public+Speaking&qid=1605048135&s=books&sr=1-3&linkCode=ll1&tag=ss102520-20&linkId=e52a95880799f5bdbdb11434dfde1989&language=en_US)  
+[Confessions of a Public Speaker](https://www.amazon.com/Confessions-Public-Speaker-Scott-Berkun/dp/1449301959/ref=sr_1_1?dchild=1&keywords=confessions+of+a+public+speaker&qid=1610442396&sr=8-1) by Scott Berkun [📘](https://www.amazon.com/Confessions-Public-Speaker-Scott-Berkun/dp/1449301959/ref=sr_1_1?dchild=1&keywords=confessions+of+a+public+speaker&qid=1610442396&sr=8-1) [🎧](https://www.amazon.com/Confessions-of-a-Public-Speaker/dp/B08JQPYY3Z/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=1610442396&sr=8-1)
 
 #### Onboarding
 
