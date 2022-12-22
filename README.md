@@ -54,6 +54,7 @@ If you have any feedback feel free to fill out this [super quick survey](https:/
 1. [Communication](#communication)
 1. [Public Speaking](#public-speaking)
 1. [Onboarding](#onboarding)
+1. [Interviewing](#interviewing)
 
 #### Management
 
@@ -137,3 +138,7 @@ by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://www.amazon.com
 #### Onboarding
 
 [First 90 Days](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612/ref=as_li_ss_tl?dchild=1&keywords=First+90+Days&qid=1605048214&s=books&sr=1-1&linkCode=ll1&tag=ss102520-20&linkId=9e6b10559aed21a6a14721041561b815&language=en_US) by Harvard Business Review Press [📘](https://www.amazon.com/First-90-Days-Strategies-Expanded/dp/1422188612/ref=as_li_ss_tl?dchild=1&keywords=First+90+Days&qid=1605048214&s=books&sr=1-1&linkCode=ll1&tag=ss102520-20&linkId=9e6b10559aed21a6a14721041561b815&language=en_US) [🎧](https://www.amazon.com/First-Days-Updated-Expanded-Strategies/dp/B00CH7FE1O/ref=as_li_ss_tl?_encoding=UTF8&qid=1605048214&sr=1-1&linkCode=ll1&tag=ss102520-20&linkId=0ed8feef79a1dba06d6ee23cd295cdc8&language=en_US)  
+
+#### Interviewing
+
+[The Software Engineering Manager Interview Guide](https://www.amazon.com/Software-Engineering-Manager-Interview-Guide-ebook/dp/B086JMXP28) by Vidal Graupera [📘](https://www.amazon.com/Software-Engineering-Manager-Interview-Guide-ebook/dp/B086JMXP28) 
