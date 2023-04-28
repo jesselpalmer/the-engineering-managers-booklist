@@ -99,7 +99,9 @@ by Eric Schmidt, Jonathan Rosenberg, and Alan Eagle[📘](https://www.amazon.com
 #### People
 
 [Peopleware](https://www.amazon.com/gp/product/0321934113/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=ss102520-20&linkId=76ee24210f163b94e8446aaacbd8818a&language=en_US) by Tom DeMarco and Tim Lister [📘](https://www.amazon.com/gp/product/0321934113/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=ss102520-20&linkId=76ee24210f163b94e8446aaacbd8818a&language=en_US)  
-[How to Win Friends and Influence People](https://www.amazon.com/gp/product/0671027034/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=ss102520-20&linkId=9b8c51e7ba32f188bedb13951e868631&language=en_US) by Dale Carnegie [📘](https://www.amazon.com/gp/product/0671027034/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=ss102520-20&linkId=9b8c51e7ba32f188bedb13951e868631&language=en_US) [🎧](https://www.amazon.com/How-Win-Friends-Influence-People/dp/B08L9XPW21/ref=as_li_ss_tl?_encoding=UTF8&qid=&sr=&linkCode=ll1&tag=ss102520-20&linkId=053d3f620987fe341d8db86b9cc23d1b&language=en_US)
+[How to Win Friends and Influence People](https://www.amazon.com/gp/product/0671027034/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=ss102520-20&linkId=9b8c51e7ba32f188bedb13951e868631&language=en_US) by Dale Carnegie [📘](https://www.amazon.com/gp/product/0671027034/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=ss102520-20&linkId=9b8c51e7ba32f188bedb13951e868631&language=en_US) [🎧](https://www.amazon.com/How-Win-Friends-Influence-People/dp/B08L9XPW21/ref=as_li_ss_tl?_encoding=UTF8&qid=&sr=&linkCode=ll1&tag=ss102520-20&linkId=053d3f620987fe341d8db86b9cc23d1b&language=en_US) 
+
+[Scaling People: Tactics for Management and Company Building](https://a.co/d/a703NnL) by Claire Hughes Johnson
 
 #### Culture
 
