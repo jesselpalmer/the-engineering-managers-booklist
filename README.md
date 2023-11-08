@@ -1,7 +1,9 @@
 
 # The Engineering Manager's Booklist &nbsp; [![Tweet booklist](https://img.shields.io/twitter/url/https/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=The%20Engineering%20Manager%27s%20Booklist%20%40jesselpalmer%20https%3A%2F%2Fgithub.com%2Fjesselpalmer%2Fthe-engineering-managers-booklist)
 
-Books for people who are or aspire to manage/lead team(s) of software engineers. This includes, but isn't limited to, Team Leads, Tech Leads, Managers, Directors, VPs of Engineering and CTOs. Pull requests are welcome.  
+## Introduction
+
+Engineering Management is a pivotal role, but seldomly formally taught. Reading is an effective way of learning from others. You can take bits and pieces of what has worked for other managers and use that information to adjust your management style. This booklist is for people who are or aspire to manage/lead team(s) of software engineers. This includes, but isn't limited to, Team Leads, Tech Leads, Managers, Directors, VPs of Engineering and CTOs. Pull requests are welcome.  
 
 ## 👨🏾‍💻 About Me
 
