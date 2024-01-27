@@ -7,7 +7,7 @@ Engineering Management is a pivotal role, but seldomly formally taught. Reading 
 
 ## 👨🏾‍💻 About Me
 
- [![Follow me on Twitter](https://img.shields.io/badge/Follow%20me%20on%20Twitter-%40jesselpalmer-blue.svg)](https://twitter.com/jesselpalmer) [![Newsletter Sign Up](https://img.shields.io/badge/Sign%20up%20for%20my%20Newsletter-On%20Engineering%20Leadership-blue.svg)](https://tinyletter.com/jesselpalmer)
+ [![Follow me on Twitter](https://img.shields.io/badge/Follow%20me%20on%20Twitter-%40jesselpalmer-blue.svg)](https://twitter.com/jesselpalmer)
 
 Hello, thanks for reading! A little about me, I have been an engineering manager at Fortune 100 companies and startups. This list represents the books that I have found valuable in my career. If you want to see what I'm reading checkout my list on [GoodRead's list](https://www.goodreads.com/review/list/39697003-jesse-palmer?shelf=currently-reading). Use the above buttons if you want to hear about my ramblings on engineering leadership.  
 
